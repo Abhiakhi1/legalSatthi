@@ -1,0 +1,886 @@
+[
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "administrative-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 2089,
+      "char_count": 13798,
+      "estimated_tokens": 3449
+    },
+    "extraction_timestamp": "2025-08-15T21:45:08.552503"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "arbitration-and-dispute-resolution.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 22,
+      "char_count": 198,
+      "estimated_tokens": 49
+    },
+    "extraction_timestamp": "2025-08-15T21:45:08.852127"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "archives-of-repealed-and-historical-laws.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 832,
+      "char_count": 6902,
+      "estimated_tokens": 1725
+    },
+    "extraction_timestamp": "2025-08-15T21:45:09.239735"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "banking-and-finance-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 868,
+      "char_count": 5696,
+      "estimated_tokens": 1424
+    },
+    "extraction_timestamp": "2025-08-15T21:45:09.540488"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "Base-Laws-and-Deleted-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 1813,
+      "char_count": 11958,
+      "estimated_tokens": 2989
+    },
+    "extraction_timestamp": "2025-08-15T21:45:10.023499"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "christian-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 561,
+      "char_count": 3551,
+      "estimated_tokens": 887
+    },
+    "extraction_timestamp": "2025-08-15T21:45:10.380360"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "civil-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 20,
+      "char_count": 173,
+      "estimated_tokens": 43
+    },
+    "extraction_timestamp": "2025-08-15T21:45:10.679649"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "civil-procedure.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 724,
+      "char_count": 4427,
+      "estimated_tokens": 1106
+    },
+    "extraction_timestamp": "2025-08-15T21:45:10.977475"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "commercial-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 707,
+      "char_count": 4247,
+      "estimated_tokens": 1061
+    },
+    "extraction_timestamp": "2025-08-15T21:45:11.274149"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "compendium-of-essential-keywords.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 22,
+      "char_count": 196,
+      "estimated_tokens": 49
+    },
+    "extraction_timestamp": "2025-08-15T21:45:11.572664"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "competition-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 583,
+      "char_count": 3987,
+      "estimated_tokens": 996
+    },
+    "extraction_timestamp": "2025-08-15T21:45:11.880970"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "constitutional-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 1129,
+      "char_count": 7376,
+      "estimated_tokens": 1844
+    },
+    "extraction_timestamp": "2025-08-15T21:45:12.183832"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "contract-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 1439,
+      "char_count": 9005,
+      "estimated_tokens": 2251
+    },
+    "extraction_timestamp": "2025-08-15T21:45:12.477657"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "corporate-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 454,
+      "char_count": 2967,
+      "estimated_tokens": 741
+    },
+    "extraction_timestamp": "2025-08-15T21:45:12.964622"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "criminal-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 171,
+      "char_count": 1187,
+      "estimated_tokens": 296
+    },
+    "extraction_timestamp": "2025-08-15T21:45:13.284059"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "environmental-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 20,
+      "char_count": 181,
+      "estimated_tokens": 45
+    },
+    "extraction_timestamp": "2025-08-15T21:45:14.002869"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "family-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 20,
+      "char_count": 174,
+      "estimated_tokens": 43
+    },
+    "extraction_timestamp": "2025-08-15T21:45:14.306101"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "hindu-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 1106,
+      "char_count": 7206,
+      "estimated_tokens": 1801
+    },
+    "extraction_timestamp": "2025-08-15T21:45:14.647340"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "insolvency-and-bankruptcy-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 366,
+      "char_count": 2411,
+      "estimated_tokens": 602
+    },
+    "extraction_timestamp": "2025-08-15T21:45:14.941998"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "intellectual-property-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 21,
+      "char_count": 189,
+      "estimated_tokens": 47
+    },
+    "extraction_timestamp": "2025-08-15T21:45:15.248538"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "international-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 20,
+      "char_count": 181,
+      "estimated_tokens": 45
+    },
+    "extraction_timestamp": "2025-08-15T21:45:15.543210"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "labour-and-employment-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 1759,
+      "char_count": 11541,
+      "estimated_tokens": 2885
+    },
+    "extraction_timestamp": "2025-08-15T21:45:15.844615"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "law-of-civil-procedure.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 22,
+      "char_count": 186,
+      "estimated_tokens": 46
+    },
+    "extraction_timestamp": "2025-08-15T21:45:16.155142"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "law-of-criminal-procedure.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 144,
+      "char_count": 1073,
+      "estimated_tokens": 268
+    },
+    "extraction_timestamp": "2025-08-15T21:45:16.454235"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "law-of-evidence.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 822,
+      "char_count": 5250,
+      "estimated_tokens": 1312
+    },
+    "extraction_timestamp": "2025-08-15T21:45:16.765487"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "law-of-torts.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 259,
+      "char_count": 1677,
+      "estimated_tokens": 419
+    },
+    "extraction_timestamp": "2025-08-15T21:45:17.065953"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "media-and-entertainment-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 22,
+      "char_count": 191,
+      "estimated_tokens": 47
+    },
+    "extraction_timestamp": "2025-08-15T21:45:17.363967"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "muslim-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 359,
+      "char_count": 2352,
+      "estimated_tokens": 588
+    },
+    "extraction_timestamp": "2025-08-15T21:45:17.658692"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "parsi-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 152,
+      "char_count": 1011,
+      "estimated_tokens": 252
+    },
+    "extraction_timestamp": "2025-08-15T21:45:17.959355"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "procedural-criminal-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 708,
+      "char_count": 4479,
+      "estimated_tokens": 1119
+    },
+    "extraction_timestamp": "2025-08-15T21:45:18.256822"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "property-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 1267,
+      "char_count": 7847,
+      "estimated_tokens": 1961
+    },
+    "extraction_timestamp": "2025-08-15T21:45:18.564759"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "secular-family-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 786,
+      "char_count": 4993,
+      "estimated_tokens": 1248
+    },
+    "extraction_timestamp": "2025-08-15T21:45:18.869652"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "substantive-criminal-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 924,
+      "char_count": 5841,
+      "estimated_tokens": 1460
+    },
+    "extraction_timestamp": "2025-08-15T21:45:19.178588"
+  },
+  {
+    "primary_keywords": [],
+    "legal_terminologies": [],
+    "key_concepts": [],
+    "statutory_references": [],
+    "legal_entities": [],
+    "legal_procedures": [],
+    "legal_documents": [],
+    "legal_phrases": [],
+    "jurisdictional_terms": [],
+    "legal_categories": [
+      "unknown"
+    ],
+    "importance_score": "low",
+    "confidence_level": "low",
+    "text_complexity": "unknown",
+    "filename": "tax-law.txt",
+    "comprehensive_keywords": [],
+    "total_extracted_terms": 0,
+    "file_stats": {
+      "word_count": 1271,
+      "char_count": 8260,
+      "estimated_tokens": 2065
+    },
+    "extraction_timestamp": "2025-08-15T21:45:19.474700"
+  }
+]
