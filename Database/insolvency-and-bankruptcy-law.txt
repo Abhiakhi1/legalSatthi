@@ -1,0 +1,31 @@
+# FIELD: Insolvency and Bankruptcy Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Insolvency and Bankruptcy Code, 2016 (IBC)
+TYPE: Unspecified
+DESCRIPTION: |
+  The IBC is a comprehensive law that consolidates the existing framework for insolvency and bankruptcy into a single legislation. It aims to provide a time-bound process for resolving insolvency, maximizing the value of assets, promoting entrepreneurship, and balancing the interests of all stakeholders.
+KEY_PROVISIONS: |
+  Corporate Insolvency Resolution Process (CIRP): The Code provides a time-bound process for resolving the insolvency of corporate debtors, which must be completed within 180 days (extendable to 330 days in complex cases).
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Insolvency :: A state where an individual or organization is unable to meet their outstanding financial debts as they fall due.
+  - Bankruptcy :: A legal process involving an insolvent person or business that seeks relief from some or all of their debts.
+  - Corporate Insolvency Resolution Process (CIRP) :: The time-bound process under the IBC for resolving the insolvency of a corporate debtor.
+  - Moratorium :: A legal suspension of actions or proceedings against a debtor during the insolvency resolution process.
+  - Resolution Plan :: A plan proposed by a resolution applicant for the revival of the insolvent corporate debtor.
+  - Liquidation :: The process of winding up a company by selling its assets to pay off its creditors.
+RELATED_SECTIONS:
+  - Section 17
+
+### FIELD_GLOSSARY
+- Insolvency :: A state where an individual or organization is unable to meet their outstanding financial debts as they fall due.
+- Bankruptcy :: A legal process involving an insolvent person or business that seeks relief from some or all of their debts.
+- Corporate Insolvency Resolution Process (CIRP) :: The time-bound process under the IBC for resolving the insolvency of a corporate debtor.
+- Moratorium :: A legal suspension of actions or proceedings against a debtor during the insolvency resolution process.
+- Resolution Plan :: A plan proposed by a resolution applicant for the revival of the insolvent corporate debtor.
+- Liquidation :: The process of winding up a company by selling its assets to pay off its creditors.

@@ -1,0 +1,49 @@
+# FIELD: Procedural Criminal Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Code of Criminal Procedure, 1973 (CrPC)
+TYPE: Historical
+DESCRIPTION: |
+  The Code of Criminal Procedure, 1973, was the primary legislation governing the procedural aspects of criminal law in India until its repeal on July 1, 2024. It provided the framework for the functioning of criminal courts, police investigation, arrest and bail procedures, the framing of charges, trial processes, and appeals.
+KEY_PROVISIONS: |
+  The CrPC was divided into 37 chapters and 484 sections.
+TERMINOLOGY:
+  - First Information Report (FIR) :: Information recorded by a police officer on the commission of a cognizable offense. It is the document that sets the process of criminal justice in motion.
+  - Cognizable Offence :: A serious offense for which a police officer has the authority to make an arrest without a warrant and to start an investigation without the permission of a court.
+  - Bailable Offence :: An offense specified as bailable in the First Schedule of the CrPC, or made bailable by any other law, in which the accused has a right to be released on bail.
+  - Charge Sheet :: A final report prepared by a law enforcement agency after investigating a crime, which is submitted to a court for initiating prosecution.
+  - Acquittal :: A formal declaration in a court of law that a person accused of a crime is not guilty.
+  - Conviction :: A formal declaration by a court that a person is guilty of a criminal offense.
+RELATED_SECTIONS:
+  - Section 154)
+  - Section 173)
+
+### ACT
+TITLE: The Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)
+TYPE: Current
+DESCRIPTION: |
+  The Bharatiya Nagarik Suraksha Sanhita (BNSS) is the new procedural law that has replaced the CrPC, 1973, effective from July 1, 2024. It aims to consolidate and amend the law relating to criminal procedure, with a focus on leveraging technology to make the process more efficient and transparent.
+KEY_PROVISIONS: |
+  The BNSS contains 531 sections. It introduces several procedural reforms:
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Audio-video electronic means :: Includes video conferencing, recording of processes of identification, search and seizure, and transmission of electronic communication.
+  - Electronic Communication :: The communication of any written, verbal, or pictorial information transmitted by means of an electronic device, including mobile phones and computers.
+  - Proclaimed Offender :: An accused person who has absconded or is concealing themselves to avoid the execution of a warrant.
+  - Zero FIR :: An FIR that can be registered at any police station, irrespective of its jurisdiction, which is then transferred to the appropriate police station for investigation.
+
+### FIELD_GLOSSARY
+- First Information Report (FIR) :: Information recorded by a police officer on the commission of a cognizable offense. It is the document that sets the process of criminal justice in motion.
+- Cognizable Offence :: A serious offense for which a police officer has the authority to make an arrest without a warrant and to start an investigation without the permission of a court.
+- Bailable Offence :: An offense specified as bailable in the First Schedule of the CrPC, or made bailable by any other law, in which the accused has a right to be released on bail.
+- Charge Sheet :: A final report prepared by a law enforcement agency after investigating a crime, which is submitted to a court for initiating prosecution.
+- Acquittal :: A formal declaration in a court of law that a person accused of a crime is not guilty.
+- Conviction :: A formal declaration by a court that a person is guilty of a criminal offense.
+- Audio-video electronic means :: Includes video conferencing, recording of processes of identification, search and seizure, and transmission of electronic communication.
+- Electronic Communication :: The communication of any written, verbal, or pictorial information transmitted by means of an electronic device, including mobile phones and computers.
+- Proclaimed Offender :: An accused person who has absconded or is concealing themselves to avoid the execution of a warrant.
+- Zero FIR :: An FIR that can be registered at any police station, irrespective of its jurisdiction, which is then transferred to the appropriate police station for investigation.

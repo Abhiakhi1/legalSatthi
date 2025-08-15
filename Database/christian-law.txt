@@ -1,0 +1,49 @@
+# FIELD: Christian Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Indian Christian Marriage Act, 1872
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act consolidates and amends the law relating to the solemnization of marriages of persons professing the Christian faith in India.
+KEY_PROVISIONS: |
+  Conditions for Marriage: The Act requires that at least one of the parties to the marriage must be a Christian. It sets the minimum age for marriage (21 for the groom, 18 for the bride) and requires free and voluntary consent.
+TERMINOLOGY:
+  - Solemnization :: The act of performing a ceremony, especially that of a marriage.
+  - Marriage Registrar :: An official appointed by the State Government to register marriages under the Act.
+  - Notice of Intended Marriage :: A formal written notice given by the parties to the Marriage Registrar of their intention to marry.
+
+### ACT
+TITLE: The Indian Divorce Act, 1869
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act governs the law relating to the divorce of persons professing the Christian religion. It also contains provisions for nullity of marriage, judicial separation, and restitution of conjugal rights.
+KEY_PROVISIONS: |
+  Grounds for Dissolution of Marriage (Section 10): Originally, the grounds for divorce were discriminatory, requiring a husband to prove only adultery, while a wife had to prove adultery coupled with another offense like cruelty or desertion. This was struck down as unconstitutional, and the Act was amended in 2001 to provide equal grounds for both spouses, including adultery, cruelty, and desertion for two years or more.
+
+  Divorce by Mutual Consent (Section 10A): The 2001 amendment introduced the provision for divorce by mutual consent, allowing parties to file a petition jointly if they have been living separately for a period of two years or more.
+
+  Nullity of Marriage (Sections 18-21): Provides grounds on which a marriage can be declared null and void, such as impotence, prohibited degrees of relationship, or if either party was a lunatic or idiot at the time of marriage.
+
+  Judicial Separation (Sections 22-26): Allows for a decree of judicial separation on grounds of adultery, cruelty, or desertion for two years or more.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Dissolution of Marriage :: The legal term for divorce.
+  - Nullity of Marriage :: A declaration that a marriage is legally void from its inception.
+  - Adultery :: Voluntary sexual intercourse between a married person and a person who is not their spouse.
+  - Cruelty :: Conduct that causes danger to life, limb, or health, or gives rise to a reasonable apprehension of such danger.
+RELATED_SECTIONS:
+  - Section 10)
+  - Section 10A)
+
+### FIELD_GLOSSARY
+- Solemnization :: The act of performing a ceremony, especially that of a marriage.
+- Marriage Registrar :: An official appointed by the State Government to register marriages under the Act.
+- Notice of Intended Marriage :: A formal written notice given by the parties to the Marriage Registrar of their intention to marry.
+- Dissolution of Marriage :: The legal term for divorce.
+- Nullity of Marriage :: A declaration that a marriage is legally void from its inception.
+- Adultery :: Voluntary sexual intercourse between a married person and a person who is not their spouse.
+- Cruelty :: Conduct that causes danger to life, limb, or health, or gives rise to a reasonable apprehension of such danger.

@@ -1,0 +1,99 @@
+# FIELD: Property Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Transfer of Property Act, 1882
+TYPE: Unspecified
+DESCRIPTION: |
+  This is the principal legislation in India that regulates the transfer of property between living persons (inter vivos). It provides a systematic and uniform law for the transfer of immovable property by acts of parties and covers various modes of transfer such as sale, mortgage, lease, exchange, and gift.
+KEY_PROVISIONS: |
+  Definition of Transfer of Property (Section 5): Defines transfer of property as an act by which a living person conveys property, in present or in future, to one or more other living persons, or to himself.   
+
+  What may be Transferred (Section 6): Establishes the general rule that property of any kind may be transferred, but lists specific exceptions, such as the chance of an heir-apparent succeeding to an estate (spes successionis), a mere right to sue, or a public office.   
+
+  Rule Against Perpetuity (Section 14): Prevents the tying up of property for an indefinite period. It provides that no transfer of property can create an interest which is to take effect after the lifetime of one or more persons living at the date of such transfer, and the minority of some person who shall be in existence at the expiration of that period.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Immovable Property :: This term is not exhaustively defined but includes land, buildings, and benefits arising out of land, and things attached to the earth. It explicitly excludes standing timber, growing crops, or grass.
+  - Attested :: In relation to an instrument, means attested by two or more witnesses each of whom has seen the executant sign or affix his mark to the instrument, or has received from the executant a personal acknowledgement of his signature or mark.
+  - Vested Interest :: An interest which is not subject to any condition precedent; it is a present, fixed right of future enjoyment.
+  - Contingent Interest :: An interest which is to take effect only on the happening of a specified uncertain event.
+  - Lis Pendens :: A Latin term for "a pending lawsuit." The doctrine provides that property which is the subject matter of a suit cannot be transferred by any party to the suit so as to affect the rights of any other party thereto under any decree which may be made therein.
+RELATED_SECTIONS:
+  - Section 105)
+  - Section 122)
+  - Section 14)
+  - Section 5)
+  - Section 53A)
+  - Section 54)
+  - Section 58)
+  - Section 6)
+
+### ACT
+TITLE: The Indian Easements Act, 1882
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act defines and amends the law relating to easements and licenses concerning immovable property. It provides a legal framework for rights that one person may have over the land of another, which are essential for the beneficial enjoyment of their own property.
+KEY_PROVISIONS: |
+  Easement Defined (Section 4): An easement is a right which the owner or occupier of certain land (the dominant heritage) possesses, for the beneficial enjoyment of that land, to do and continue to do something, or to prevent something being done, in or upon certain other land not his own (the servient heritage).   
+
+  Acquisition of Easements (Sections 8-19): Easements can be acquired in several ways:
+TERMINOLOGY:
+  - Easement :: A non-possessory right to use and/or enter onto the real property of another without possessing it.
+  - Dominant Heritage :: The land for the beneficial enjoyment of which the right of easement exists.
+  - Servient Heritage :: The land upon which the liability of an easement is imposed.
+  - Prescription :: A method of acquiring an easement by long, open, and continuous use without the permission of the owner.
+  - License :: A personal privilege to do some particular act or series of acts on land without possessing any estate or interest therein.
+RELATED_SECTIONS:
+  - Section 15)
+  - Section 4)
+
+### ACT
+TITLE: The Registration Act, 1908
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act consolidates the law relating to the registration of documents. Its primary purpose is to provide a method of public registration of documents to give notice to the world of legal rights and obligations arising from them, ensure authenticity, and prevent fraud. The Act is supplemental to the Transfer of Property Act, 1882.
+KEY_PROVISIONS: |
+  Documents of which Registration is Compulsory (Section 17): This is the most critical section, mandating the registration of certain documents, including:
+
+  Instruments of gift of immovable property.
+
+  Non-testamentary instruments which create, declare, assign, limit or extinguish any right, title or interest in immovable property of a value of one hundred rupees and upwards.
+
+  Leases of immovable property for any term exceeding one year.   
+
+  Documents of which Registration is Optional (Section 18): This section lists documents for which registration is optional, such as leases for a term not exceeding one year and wills.   
+
+  Time for Presentation (Sections 23-26): Documents (other than wills) must generally be presented for registration within four months from the date of their execution.   
+
+  Effect of Non-Registration (Section 49): A document that is required to be registered under Section 17 but is not registered shall not affect any immovable property comprised therein, confer any power to adopt, or be received as evidence of any transaction affecting such property.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Registration :: The official recording of a document with a public authority (the Sub-Registrar) to make it legally effective and to provide public notice of the transaction.
+  - Instrument :: A formal legal document that creates, modifies, or terminates a right.
+RELATED_SECTIONS:
+  - Section 17
+  - Section 17)
+  - Section 18)
+  - Section 49)
+  - Section 52
+  - Section 9
+  - Article 300A
+
+### FIELD_GLOSSARY
+- Immovable Property :: This term is not exhaustively defined but includes land, buildings, and benefits arising out of land, and things attached to the earth. It explicitly excludes standing timber, growing crops, or grass.
+- Attested :: In relation to an instrument, means attested by two or more witnesses each of whom has seen the executant sign or affix his mark to the instrument, or has received from the executant a personal acknowledgement of his signature or mark.
+- Vested Interest :: An interest which is not subject to any condition precedent; it is a present, fixed right of future enjoyment.
+- Contingent Interest :: An interest which is to take effect only on the happening of a specified uncertain event.
+- Lis Pendens :: A Latin term for "a pending lawsuit." The doctrine provides that property which is the subject matter of a suit cannot be transferred by any party to the suit so as to affect the rights of any other party thereto under any decree which may be made therein.
+- Easement :: A non-possessory right to use and/or enter onto the real property of another without possessing it.
+- Dominant Heritage :: The land for the beneficial enjoyment of which the right of easement exists.
+- Servient Heritage :: The land upon which the liability of an easement is imposed.
+- Prescription :: A method of acquiring an easement by long, open, and continuous use without the permission of the owner.
+- License :: A personal privilege to do some particular act or series of acts on land without possessing any estate or interest therein.
+- Registration :: The official recording of a document with a public authority (the Sub-Registrar) to make it legally effective and to provide public notice of the transaction.
+- Instrument :: A formal legal document that creates, modifies, or terminates a right.

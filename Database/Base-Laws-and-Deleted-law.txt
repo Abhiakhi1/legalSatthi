@@ -1,0 +1,160 @@
+Historical and Repealed Indian Laws Dataset
+
+This file contains information on foundational Indian laws that have since been repealed, replaced, or significantly amended. It is intended for historical and educational purposes, particularly for training AI models on the evolution of the Indian legal system.
+
+1. The Indian Penal Code, 1860 (IPC) [Historical Law]
+Act Number: 45 of 1860.
+
+Year of Enactment: 1860.
+
+Status: Repealed and replaced by the Bharatiya Nyaya Sanhita, 2023, effective from July 1, 2024.
+
+Description: The Indian Penal Code was the primary substantive criminal code of India for over 160 years. Drafted on the recommendations of the First Law Commission of India chaired by Thomas Babington Macaulay, it was a comprehensive code intended to cover all substantive aspects of criminal law. It served as the backbone of criminal law in India and influenced the penal codes of several other common law countries.
+
+Key Provisions:
+
+Structure: The IPC was structured into 23 chapters and 511 sections.
+
+General Explanations and Exceptions (Chapters II, IV): Defined fundamental concepts like "offence," "dishonestly," and "fraudulently," and laid down general exceptions to criminal liability, such as acts done by a person bound by law, acts of a child, acts of a person of unsound mind, and the right of private defence.
+
+Punishments (Chapter III): Detailed various punishments, including death, imprisonment for life, rigorous and simple imprisonment, forfeiture of property, and fine.
+
+Offences Against the State (Chapter VI): Included offenses like waging war against the Government of India and sedition (Section 124A).
+
+Offences Against the Human Body (Chapter XVI): Covered a wide range of offenses from culpable homicide and murder (Sections 299-302) to kidnapping, abduction, and sexual offenses like rape (Section 375).
+
+Offences Against Property (Chapter XVII): Defined offenses such as theft, extortion, robbery, dacoity, criminal misappropriation, criminal breach of trust, and cheating.
+
+Associated Legal Terminology:
+
+Offence: An act or omission made punishable by any law for the time being in force.
+
+Mens Rea: A Latin term for "guilty mind," referring to the mental state or criminal intent required to be found guilty of a crime.
+
+Actus Reus: A Latin term for "guilty act," referring to the physical act or unlawful omission that constitutes the crime.
+
+Culpable Homicide: The act of causing death with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that the act is likely to cause death.
+
+Sedition: The act of bringing or attempting to bring into hatred or contempt, or exciting or attempting to excite disaffection towards, the Government established by law in India.
+
+2. The Code of Criminal Procedure, 1973 (CrPC) [Historical Law]
+Act Number: 2 of 1974.
+
+Year of Enactment: 1973 (came into force April 1, 1974).
+
+Status: Repealed and replaced by the Bharatiya Nagarik Suraksha Sanhita, 2023, effective from July 1, 2024.
+
+Description: The Code of Criminal Procedure, 1973, was the primary legislation governing the procedural aspects of criminal law in India. It provided the framework for the functioning of criminal courts, police investigation, arrest and bail procedures, the framing of charges, trial processes, and appeals.
+
+Key Provisions:
+
+Structure: The CrPC was divided into 37 chapters and 484 sections.
+
+Classification of Offences: It classified offenses into "cognizable" (where police can arrest without a warrant) and "non-cognizable," and "bailable" (where bail is a right) and "non-bailable".
+
+Hierarchy of Criminal Courts: Established the hierarchy of criminal courts, including the Supreme Court, High Courts, Courts of Session, and Magistrates' Courts.
+
+Investigation: Detailed the powers of the police to investigate crimes, including the recording of a First Information Report (FIR) for cognizable offenses (Section 154) and the preparation of a final report or charge sheet (Section 173).
+
+Trial Procedures: Outlined distinct procedures for different types of trials: Trial before a Court of Session (Chapter XVIII), Trial of Warrant-Cases by Magistrates (Chapter XIX), and Trial of Summons-Cases by Magistrates (Chapter XX).
+
+Associated Legal Terminology:
+
+First Information Report (FIR): Information recorded by a police officer on the commission of a cognizable offense, setting the criminal justice process in motion.
+
+Cognizable Offence: A serious offense for which a police officer has the authority to make an arrest without a warrant and to start an investigation without the permission of a court.
+
+Bailable Offence: An offense specified as bailable in the First Schedule of the CrPC, or made bailable by any other law, in which the accused has a right to be released on bail.
+
+Charge Sheet: A final report prepared by a law enforcement agency after investigating a crime, submitted to a court for initiating prosecution.
+
+Acquittal: A formal declaration in a court of law that a person accused of a crime is not guilty.
+
+Conviction: A formal declaration by a court that a person is guilty of a criminal offense.
+
+3. The Indian Evidence Act, 1872 (IEA) [Historical Law]
+Act Number: 1 of 1872.
+
+Year of Enactment: 1872.
+
+Status: Repealed and replaced by the Bharatiya Sakshya Adhiniyam, 2023, effective from July 1, 2024.
+
+Description: The Indian Evidence Act, 1872, was the foundational law governing the admissibility of evidence in Indian courts for over 150 years. Drafted by Sir James Fitzjames Stephen, it provided a codified and uniform set of rules for all judicial proceedings.
+
+Key Provisions:
+
+Structure: The Act was divided into three parts, 11 chapters, and 167 sections.
+
+Relevancy of Facts (Part I): Detailed which facts are considered relevant and may be proved in a legal proceeding. This included facts forming part of the same transaction (res gestae), facts showing motive or preparation, and admissions and confessions.
+
+On Proof (Part II): Classified evidence as oral and documentary. It laid down the principle that documents must be proved by primary evidence (the original document itself), with secondary evidence being admissible only in specific circumstances.
+
+Production and Effect of Evidence (Part III): Dealt with the burden of proof, estoppel, and the examination of witnesses.
+
+Associated Legal Terminology:
+
+Evidence: Defined to include (1) all statements which the court permits or requires to be made before it by witnesses (oral evidence); and (2) all documents produced for the inspection of the court (documentary evidence).
+
+Fact in Issue: Any fact from which, either by itself or in connection with other facts, the existence, non-existence, nature, or extent of any right, liability, or disability asserted or denied in any suit or proceeding, necessarily follows.
+
+Relevant Fact: A fact that is connected with a fact in issue in any of the ways referred to in the provisions of the Act.
+
+Presumption: An inference of fact drawn by the court. The Act distinguished between "may presume" (discretionary), "shall presume" (mandatory but rebuttable), and "conclusive proof" (irrebuttable).
+
+4. The Monopolies and Restrictive Trade Practices Act, 1969 (MRTP Act) [Historical Law]
+Act Number: 54 of 1969.
+
+Year of Enactment: 1969.
+
+Status: Repealed and replaced by The Competition Act, 2002.
+
+Description: This was India's first major legislation aimed at regulating corporate power and preventing the concentration of economic power in the hands of a few. The Act sought to control monopolies, prohibit monopolistic and restrictive trade practices, and protect consumers from unfair trade practices. It established the MRTP Commission to investigate and pass orders on such matters. The Act was repealed to align India's competition regime with global standards, leading to the enactment of the more modern Competition Act, 2002.
+
+5. The Land Acquisition Act, 1894 [Historical Law]
+Act Number: 1 of 1894.
+
+Year of Enactment: 1894.
+
+Status: Repealed and replaced by The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013.
+
+Description: This colonial-era law governed the process by which the government could acquire private land for public purposes. It outlined the procedures for acquisition, the determination of compensation, and the legal recourse available to landowners. The Act was criticized for its inadequate compensation provisions, lack of transparency, and failure to address the rehabilitation and resettlement of displaced families, which led to its eventual replacement by the LARR Act of 2013.
+
+Key Provisions:
+
+Public Purpose: Defined the reasons for which land could be acquired.
+
+Procedure: Included issuing a preliminary notification, hearing objections, making a declaration of acquisition, and passing an award for compensation.
+
+Compensation: Determined by the Collector based on the market value of the land at the time of the preliminary notification.
+
+Urgency Clause: Allowed the government to take immediate possession of land in urgent cases, bypassing some procedural steps.
+
+6. The Government of India Act, 1935 [Historical Law]
+Year of Enactment: 1935.
+
+Status: Repealed by Article 395 of the Constitution of India, 1950.
+
+Description: This was the last and most comprehensive constitutional document enacted by the British Parliament for the governance of India. It provided for a federal structure, provincial autonomy, and a bicameral central legislature. Many of its features, including the federal scheme, the office of the governor, the structure of the judiciary, and the division of legislative powers into Federal, Provincial, and Concurrent lists, served as a direct blueprint for the Constitution of India. It remained the fundamental governing document until the Indian Independence Act, 1947, and the subsequent adoption of the Constitution.
+
+7. The Indian Independence Act, 1947 [Historical Law]
+Year of Enactment: 1947.
+
+Status: Repealed by Article 395 of the Constitution of India, 1950.
+
+Description: This Act of the British Parliament partitioned British India into the two new independent Dominions of India and Pakistan. It ended British sovereignty over the Indian subcontinent and granted full legislative authority to the Constituent Assemblies of the two new countries. The Act served as the legal basis for the transition from British rule to independence and was the governing document until the Dominions adopted their own constitutions.
+
+8. The Employment of Children Act, 1938 [Historical Law]
+Act Number: 26 of 1938.
+
+Year of Enactment: 1938.
+
+Status: Repealed by The Child Labour (Prohibition and Regulation) Act, 1986.
+
+Description: This was one of the early laws in India aimed at addressing the issue of child labour. It prohibited the employment of children below a certain age (initially 15, later amended) in specific occupations, such as transport of goods on railways and work in ports. It was a precursor to more comprehensive legislation and was eventually repealed and replaced by the 1986 Act, which provided a more extensive list of prohibited occupations and processes and also regulated the working conditions of children in non-prohibited areas.
+
+9. The Forest (Conservation) Ordinance, 1980 [Historical Law]
+Year of Enactment: 1980.
+
+Status: Repealed and replaced by The Forest (Conservation) Act, 1980.
+
+Description: This Ordinance was promulgated to provide for the conservation of forests and to check the indiscriminate diversion of forest land for non-forest purposes. It made the prior approval of the Central Government mandatory for any State Government or other authority to de-reserve a reserved forest or use forest land for any non-forest purpose. The provisions of the Ordinance were soon enacted into a full-fledged law, The Forest (Conservation) Act, 1980, to give its measures permanent statutory backing.

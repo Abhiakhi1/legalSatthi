@@ -1,0 +1,62 @@
+# FIELD: Substantive Criminal Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Indian Penal Code, 1860 (IPC)
+TYPE: Historical
+DESCRIPTION: |
+  The Indian Penal Code was the primary substantive criminal code of India for over 160 years, from its commencement in 1862 until its repeal on July 1, 2024. Drafted on the recommendations of the First Law Commission of India chaired by Thomas Babington Macaulay, it was a comprehensive code intended to cover all substantive aspects of criminal law. It served as the backbone of criminal law in India and influenced the penal codes of several other common law countries.
+KEY_PROVISIONS: |
+  The IPC was structured into 23 chapters and 511 sections. Its key provisions included:   
+
+  General Explanations and Exceptions (Chapters II, IV): Defined fundamental concepts like "offence," "dishonestly," and "fraudulently," and laid down general exceptions to criminal liability, such as acts done by a person bound by law, acts of a child, acts of a person of unsound mind, and the right of private defence.   
+
+  Punishments (Chapter III): Detailed various punishments, including death, imprisonment for life, rigorous and simple imprisonment, forfeiture of property, and fine.   
+
+  Offences Against the State (Chapter VI): Included offenses like waging war against the Government of India and sedition (Section 124A).
+
+  Offences Against the Human Body (Chapter XVI): Covered a wide range of offenses from culpable homicide and murder (Sections 299-302) to kidnapping, abduction, and sexual offenses like rape (Section 375).   
+
+  Offences Against Property (Chapter XVII): Defined offenses such as theft, extortion, robbery, dacoity, criminal misappropriation, criminal breach of trust, and cheating.
+TERMINOLOGY:
+  - Offence :: An act or omission made punishable by any law for the time being in force.
+  - Mens Rea :: A Latin term for "guilty mind," referring to the mental state or criminal intent required to be found guilty of a crime.
+  - Actus Reus :: A Latin term for "guilty act," referring to the physical act or unlawful omission that constitutes the crime.
+  - Culpable Homicide :: The act of causing death with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that the act is likely to cause death.
+  - Sedition :: The act of bringing or attempting to bring into hatred or contempt, or exciting or attempting to excite disaffection towards, the Government established by law in India.
+RELATED_SECTIONS:
+  - Section 124A)
+  - Section 375)
+
+### ACT
+TITLE: The Bharatiya Nyaya Sanhita, 2023 (BNS)
+TYPE: Current
+DESCRIPTION: |
+  The Bharatiya Nyaya Sanhita (BNS) is the new official criminal code of India, which replaced the Indian Penal Code, 1860, effective from July 1, 2024. The BNS aims to consolidate and amend the laws relating to criminal offenses with a focus on delivering justice rather than merely inflicting punishment, reflecting a shift in penal philosophy.
+KEY_PROVISIONS: |
+  The BNS comprises 358 sections organized into 20 chapters. While it retains many core offenses from the IPC, it introduces significant changes:
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Terrorist Act :: An act committed with the intent to threaten or likely to threaten the unity, integrity, security, economic security, or sovereignty of India or with intent to strike terror in the people.
+  - Organised Crime :: Any continuing unlawful activity by an individual, singly or jointly, either as a member of an organised crime syndicate or on behalf of such syndicate, by use of violence, threat of violence, intimidation, coercion, or other unlawful means to obtain direct or indirect material benefit.
+  - Community Service :: A punishment requiring an offender to perform a certain number of hours of unpaid work for the community.
+  - Petty Organised Crime :: Includes acts like vehicle theft, pick-pocketing, and selling public examination question papers when committed by an organized group.
+RELATED_SECTIONS:
+  - Section 111)
+  - Section 113)
+  - Section 124A
+  - Section 152
+
+### FIELD_GLOSSARY
+- Offence :: An act or omission made punishable by any law for the time being in force.
+- Mens Rea :: A Latin term for "guilty mind," referring to the mental state or criminal intent required to be found guilty of a crime.
+- Actus Reus :: A Latin term for "guilty act," referring to the physical act or unlawful omission that constitutes the crime.
+- Culpable Homicide :: The act of causing death with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that the act is likely to cause death.
+- Sedition :: The act of bringing or attempting to bring into hatred or contempt, or exciting or attempting to excite disaffection towards, the Government established by law in India.
+- Terrorist Act :: An act committed with the intent to threaten or likely to threaten the unity, integrity, security, economic security, or sovereignty of India or with intent to strike terror in the people.
+- Organised Crime :: Any continuing unlawful activity by an individual, singly or jointly, either as a member of an organised crime syndicate or on behalf of such syndicate, by use of violence, threat of violence, intimidation, coercion, or other unlawful means to obtain direct or indirect material benefit.
+- Community Service :: A punishment requiring an offender to perform a certain number of hours of unpaid work for the community.
+- Petty Organised Crime :: Includes acts like vehicle theft, pick-pocketing, and selling public examination question papers when committed by an organized group.

@@ -1,0 +1,153 @@
+# FIELD: Administrative Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Citizenship Act, 1955
+TYPE: Unspecified
+DESCRIPTION: |
+  Enacted by Parliament under its power granted by Article 11 of the Constitution, this Act provides a comprehensive framework for the acquisition and termination of Indian citizenship for individuals born after the commencement of the Constitution. It supplements the provisions laid out in Part II of the Constitution.
+KEY_PROVISIONS: |
+  Acquisition of Citizenship: The Act lays down five modes of acquiring citizenship:
+
+  By Birth (Section 3): Citizenship is granted to persons born in India, subject to conditions regarding the citizenship of their parents, which have become progressively stricter through amendments.   
+
+  By Descent (Section 4): Citizenship is granted to persons born outside India if at least one of their parents is an Indian citizen at the time of their birth, subject to registration requirements.   
+
+  By Registration (Section 5): Allows certain categories of persons, primarily those of Indian origin, to register as citizens after fulfilling a residency requirement.   
+
+  By Naturalisation (Section 6): Allows a foreigner to acquire citizenship after residing in India for a specified period (typically 12 years) and fulfilling other qualifications, provided they renounce their former citizenship.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Citizen :: A person who, under the citizenship or nationality law of a country, is a citizen or national of that country.
+  - Illegal Migrant :: A foreigner who has entered India without a valid passport or other travel documents or who remains in India beyond the permitted period of time.
+  - Naturalisation :: The legal process by which a non-citizen of a country may acquire citizenship or nationality of that country.
+  - Person of Indian Origin (PIO) :: A person who, or either of whose parents, or any of whose grandparents, was born in undivided India.
+  - Domicile :: A person's permanent place of residence, which is a legal concept used to determine their legal jurisdiction.
+RELATED_SECTIONS:
+  - Section 10)
+  - Section 3)
+  - Section 4)
+  - Section 5)
+  - Section 6)
+  - Section 8)
+  - Section 9)
+  - Article 11
+
+### ACT
+TITLE: The States Reorganisation Act, 1956
+TYPE: Unspecified
+DESCRIPTION: |
+  This was a landmark Act that redrew the map of India by reorganizing the boundaries of its states and territories, primarily along linguistic lines. It was enacted under the authority of Articles 3 and 4 of the Constitution and was implemented concurrently with the Constitution (Seventh Amendment) Act, 1956, which provided the necessary constitutional framework for the changes.
+KEY_PROVISIONS: |
+  Abolition of State Categories: The Act abolished the four-tiered classification of states (Part A, B, C, and D) that existed under the original Constitution and replaced it with a two-tiered system of "States" and "Union Territories".
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Appointed Day :: The date on which the reorganisation took effect, specified as the 1st day of November, 1956.
+  - Existing State :: A state as it existed and was specified in the First Schedule of the Constitution immediately before the commencement of the Act.
+  - Successor State :: A state that, after reorganisation, comprises part of the territory of an existing state and thereby inherits its assets, liabilities, and legal framework for that territory.
+  - Linguistic Principle :: The core principle guiding the reorganisation, which aimed to create states where the majority of the population spoke a common language, thereby facilitating administration and promoting cultural identity.
+  - Zonal Council :: An advisory body established by the Act to foster interstate cooperation within a specific geographical zone of India.
+RELATED_SECTIONS:
+  - Articles 3
+
+### ACT
+TITLE: The Administrative Tribunals Act, 1985
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act was passed by Parliament under the enabling provision of Article 323-A of the Constitution. It provides for the establishment of administrative tribunals to adjudicate disputes and complaints concerning the recruitment and conditions of service of persons appointed to public services and posts in connection with the affairs of the Union or of any State. The primary goal was to provide a specialized and speedy forum for service matters, reducing the burden on regular courts.
+KEY_PROVISIONS: |
+  Establishment of Tribunals (Section 4): Provides for the establishment of the Central Administrative Tribunal (CAT) for Union government employees and State Administrative Tribunals (SATs) for state government employees upon request from the respective state government.   
+
+  Jurisdiction (Sections 14 & 15): The tribunals exercise original jurisdiction over all service matters of public servants. This jurisdiction was initially intended to exclude that of all courts except the Supreme Court, but a landmark Supreme Court judgment (L. Chandra Kumar v. Union of India) later held that the jurisdiction of High Courts under Articles 226 and 227 could not be excluded.   
+
+  Composition (Section 5): Benches of the tribunal consist of a Judicial Member and an Administrative Member, ensuring a blend of legal and administrative expertise.   
+
+  Procedure (Section 22): Tribunals are not bound by the strict procedures of the Code of Civil Procedure, 1908, or the Indian Evidence Act, 1872. They are guided by the principles of natural justice, which allows for more flexible and speedier proceedings.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Service Matters :: All matters relating to the conditions of service of a public servant, including remuneration, allowances, pension, tenure, promotion, leave, and disciplinary actions.
+  - Adjudication :: The formal legal process of resolving a dispute by a neutral third party, such as a tribunal or court.
+  - Tribunal :: A quasi-judicial body, meaning it has some but not all of the powers of a court, established to adjudicate disputes in a specific area of law.
+  - Principles of Natural Justice :: Fundamental rules of fair procedure, primarily including audi alteram partem (the right to be heard) and nemo judex in causa sua (the rule against bias).
+RELATED_SECTIONS:
+  - Section 22)
+  - Section 4)
+  - Section 5)
+  - Article 323-A
+  - Articles 226
+
+### ACT
+TITLE: The Right to Information Act, 2005
+TYPE: Unspecified
+DESCRIPTION: |
+  This landmark legislation provides a statutory framework for the citizen's fundamental right to information, which is implicitly guaranteed under Article 19(1)(a) of the Constitution (Right to Freedom of Speech and Expression). The Act's objective is to promote transparency and accountability in the working of every public authority.
+KEY_PROVISIONS: |
+  Right to Information (Section 2): Defines the right to access information held by or under the control of public authorities. This includes the right to inspect works, documents, records; take notes, extracts, or certified copies; and obtain information in electronic form.   
+
+  Obligations of Public Authorities (Section 4): Mandates proactive disclosure of information by public authorities, such as their organization, functions, duties, and the particulars of their Public Information Officers (PIOs). This is intended to minimize the need for citizens to file specific requests.   
+
+  Designation of Public Information Officers (Section 5): Requires every public authority to designate Central or State Public Information Officers (PIOs) to receive and process information requests.   
+
+  Procedure for Obtaining Information (Section 6 & 7): Lays down a simple procedure for citizens to request information. A response is mandated within 30 days, or within 48 hours if the information concerns the life or liberty of a person.   
+
+  Exemptions from Disclosure (Section 8): Lists specific categories of information that are exempt from disclosure, such as information that would prejudicially affect the sovereignty and integrity of India, national security, or information received in confidence from a foreign government.   
+
+  Information Commissions (Sections 12 & 15): Establishes the Central Information Commission (CIC) at the national level and State Information Commissions (SICs) at the state level to hear appeals against the decisions of public authorities.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Information :: Any material in any form, including records, documents, memos, e-mails, opinions, advices, press releases, circulars, orders, logbooks, contracts, reports, papers, samples, models, and data material held in any electronic form.
+  - Public Authority :: Any authority or body or institution of self-government established or constituted by or under the Constitution; by any other law made by Parliament or State Legislature; or by notification issued by the appropriate Government. It also includes bodies owned, controlled, or substantially financed by the government.
+  - Public Information Officer (PIO) :: An officer designated by a public authority to provide information to citizens requesting information under the Act.
+  - First Appellate Authority :: An officer senior in rank to the PIO within the same public authority to whom an appeal can be filed against the decision of the PIO.
+  - Part II :: Criminal Law
+RELATED_SECTIONS:
+  - Section 2)
+  - Section 4)
+  - Section 5)
+  - Section 6
+  - Section 8)
+  - Article 19(
+
+### ACT
+TITLE: The criminal justice system in India underwent a historic transformation in 2023, with the enactment of three new laws that replaced the colonial-era criminal codes. This section details both the historical framework and the current legal regime to provide a complete picture for AI training purposes. The new laws—the Bharatiya Nyaya Sanhita, 2023; the Bharatiya Nagarik Suraksha Sanhita, 2023; and the Bharatiya Sakshya Adhiniyam, 2023—came into effect on July 1, 2024, representing a significant paradigm shift aimed at decolonizing and modernizing Indian criminal jurisprudence.
+TYPE: Unspecified
+RELATED_SECTIONS:
+  - Section 2
+  - Article 14
+  - Article 226)
+  - Article 32
+  - Article 32)
+  - Articles 323A
+
+### ACT
+TITLE: The writ jurisdiction under Articles 32 and 226 serves as the primary constitutional tool for enforcing administrative law principles in India.84 It transforms the judiciary from a passive arbiter into an active supervisor of the executive branch. Writs like
+TYPE: Unspecified
+RELATED_SECTIONS:
+  - Article 14
+  - Articles 32
+
+### FIELD_GLOSSARY
+- Citizen :: A person who, under the citizenship or nationality law of a country, is a citizen or national of that country.
+- Illegal Migrant :: A foreigner who has entered India without a valid passport or other travel documents or who remains in India beyond the permitted period of time.
+- Naturalisation :: The legal process by which a non-citizen of a country may acquire citizenship or nationality of that country.
+- Person of Indian Origin (PIO) :: A person who, or either of whose parents, or any of whose grandparents, was born in undivided India.
+- Domicile :: A person's permanent place of residence, which is a legal concept used to determine their legal jurisdiction.
+- Appointed Day :: The date on which the reorganisation took effect, specified as the 1st day of November, 1956.
+- Existing State :: A state as it existed and was specified in the First Schedule of the Constitution immediately before the commencement of the Act.
+- Successor State :: A state that, after reorganisation, comprises part of the territory of an existing state and thereby inherits its assets, liabilities, and legal framework for that territory.
+- Linguistic Principle :: The core principle guiding the reorganisation, which aimed to create states where the majority of the population spoke a common language, thereby facilitating administration and promoting cultural identity.
+- Zonal Council :: An advisory body established by the Act to foster interstate cooperation within a specific geographical zone of India.
+- Service Matters :: All matters relating to the conditions of service of a public servant, including remuneration, allowances, pension, tenure, promotion, leave, and disciplinary actions.
+- Adjudication :: The formal legal process of resolving a dispute by a neutral third party, such as a tribunal or court.
+- Tribunal :: A quasi-judicial body, meaning it has some but not all of the powers of a court, established to adjudicate disputes in a specific area of law.
+- Principles of Natural Justice :: Fundamental rules of fair procedure, primarily including audi alteram partem (the right to be heard) and nemo judex in causa sua (the rule against bias).
+- Information :: Any material in any form, including records, documents, memos, e-mails, opinions, advices, press releases, circulars, orders, logbooks, contracts, reports, papers, samples, models, and data material held in any electronic form.
+- Public Authority :: Any authority or body or institution of self-government established or constituted by or under the Constitution; by any other law made by Parliament or State Legislature; or by notification issued by the appropriate Government. It also includes bodies owned, controlled, or substantially financed by the government.
+- Public Information Officer (PIO) :: An officer designated by a public authority to provide information to citizens requesting information under the Act.
+- First Appellate Authority :: An officer senior in rank to the PIO within the same public authority to whom an appeal can be filed against the decision of the PIO.

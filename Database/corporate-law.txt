@@ -1,0 +1,48 @@
+# FIELD: Corporate Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Companies Act, 2013
+TYPE: Unspecified
+DESCRIPTION: |
+  The Companies Act, 2013, is a comprehensive law that regulates the incorporation of a company, its responsibilities, directors, and dissolution. It replaced the Companies Act, 1956, and introduced significant changes to align Indian corporate governance with global standards.
+KEY_PROVISIONS: |
+  The Act is extensive, with 470 sections and 7 schedules.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Company :: A company incorporated under this Act or under any previous company law.
+  - Memorandum of Association :: The charter of the company, which defines its objectives and scope of activities.
+  - Articles of Association :: The internal regulations for the management of the company's affairs.
+RELATED_SECTIONS:
+  - Section 135)
+  - Section 166)
+
+### ACT
+TITLE: The Limited Liability Partnership Act, 2008
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act introduced and governs the formation and regulation of Limited Liability Partnerships (LLPs). An LLP is a hybrid corporate structure that combines the flexibility of a partnership with the benefit of limited liability of a company.
+KEY_PROVISIONS: |
+  Body Corporate and Separate Legal Entity (Section 3): An LLP is a body corporate and a legal entity separate from its partners, with perpetual succession.
+TERMINOLOGY:
+  - Limited Liability Partnership (LLP) :: A body corporate formed and incorporated under the Act, which is a legal entity separate from its partners.
+  - Partner :: Any person who becomes a partner in the LLP in accordance with the LLP agreement.
+  - Designated Partner :: A partner who is designated as such in the incorporation document and is responsible for compliance with the Act's provisions.
+  - LLP Agreement :: A written agreement between the partners of the LLP that determines their mutual rights and duties.
+RELATED_SECTIONS:
+  - Section 11
+  - Section 3)
+  - Article 14
+  - Article 19(
+
+### FIELD_GLOSSARY
+- Company :: A company incorporated under this Act or under any previous company law.
+- Memorandum of Association :: The charter of the company, which defines its objectives and scope of activities.
+- Articles of Association :: The internal regulations for the management of the company's affairs.
+- Limited Liability Partnership (LLP) :: A body corporate formed and incorporated under the Act, which is a legal entity separate from its partners.
+- Partner :: Any person who becomes a partner in the LLP in accordance with the LLP agreement.
+- Designated Partner :: A partner who is designated as such in the incorporation document and is responsible for compliance with the Act's provisions.
+- LLP Agreement :: A written agreement between the partners of the LLP that determines their mutual rights and duties.

@@ -1,0 +1,103 @@
+# FIELD: Constitutional Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Constitution of India, 1950
+TYPE: Unspecified
+DESCRIPTION: |
+  The Constitution of India is the foundational governing document of the Republic of India. Adopted by the Constituent Assembly on November 26, 1949, it came into force on January 26, 1950. It establishes the framework for a sovereign, socialist, secular, democratic republic and outlines the fundamental political code, structure, procedures, powers, and duties of government institutions, while also setting out fundamental rights, directive principles, and the duties of citizens. The document provided is updated as of May 1, 2024, incorporating all amendments up to the Constitution (One Hundred and Sixth Amendment) Act, 2023.
+KEY_PROVISIONS: |
+  The Constitution is divided into Parts, Articles, and Schedules.
+AMENDMENTS: |
+  Related Amendments
+RELATED_SECTIONS:
+  - Article 246
+  - Article 32)
+  - Article 368)
+  - Article 38)
+  - Article 39A)
+  - Article 44)
+  - Article 51A)
+  - Articles 1-
+  - Articles 12-
+  - Articles 14-
+  - Articles 152-
+  - Articles 19-
+  - Articles 23-
+  - Articles 245-
+  - Articles 25-
+  - Articles 29-
+  - Articles 352-
+  - Articles 36-
+  - Articles 5-
+  - Articles 52-
+
+### ACT
+TITLE: The Constitution (Forty-second Amendment) Act, 1976: Added the words "Socialist" and "Secular" to the Preamble and introduced the Fundamental Duties in Part IVA.
+TYPE: Unspecified
+
+### ACT
+TITLE: The Constitution (Forty-fourth Amendment) Act, 1978: Removed the Right to Property from the list of Fundamental Rights and made it a constitutional right under Article 300A.
+TYPE: Unspecified
+RELATED_SECTIONS:
+  - Article 300A
+
+### ACT
+TITLE: The Constitution (Seventy-third Amendment) Act, 1992: Granted constitutional status to Panchayati Raj institutions by adding Part IX and the Eleventh Schedule.
+TYPE: Unspecified
+
+### ACT
+TITLE: The Constitution (Seventy-fourth Amendment) Act, 1992: Granted constitutional status to Municipalities by adding Part IXA and the Twelfth Schedule.
+TYPE: Unspecified
+
+### ACT
+TITLE: The Constitution (One Hundred and First Amendment) Act, 2016: Introduced the Goods and Services Tax (GST) by inserting new articles like 246A, 269A, and 279A.
+TYPE: Unspecified
+
+### ACT
+TITLE: The Constitution (One Hundred and Sixth Amendment) Act, 2023: Provided for the reservation of seats for women in the House of the People and the Legislative Assemblies of the States.
+TYPE: Unspecified
+TERMINOLOGY:
+  - State :: As defined in Article 12 for the purpose of Fundamental Rights, it includes the Government and Parliament of India, the Government and the Legislature of each of the States, and all local or other authorities within the territory of India or under the control of the Government of India.
+  - Law :: As defined in Article 13, it includes any Ordinance, order, bye-law, rule, regulation, notification, custom, or usage having in the territory of India the force of law.
+  - Writ :: A formal written order issued by a court. Articles 32 and 226 of the Constitution empower the Supreme Court and High Courts, respectively, to issue writs of habeas corpus, mandamus, prohibition, quo warranto, and certiorari for the enforcement of Fundamental Rights and for any other purpose.
+  - Federalism :: A system of government in which power is divided between a central authority and constituent political units, such as states. The Indian Constitution establishes a quasi-federal structure, with a clear division of legislative powers detailed in the Seventh Schedule.
+  - Separation of Powers :: The constitutional principle that divides governmental authority into three branches: the legislative (makes laws), the executive (implements laws), and the judicial (interprets laws). This is a foundational feature of the Indian governmental structure.
+  - Judicial Review :: The power of the judiciary, particularly the Supreme Court and High Courts, to examine the constitutionality of legislative enactments and executive orders of both the Central and State governments. Any law or order found to be in violation of the Constitution can be declared null and void.
+  - Pith and Substance :: A legal doctrine used to determine which head of power (Union, State, or Concurrent List) a particular piece of legislation falls under. The court looks at the true nature and character of the legislation to ascertain its "pith and substance."
+RELATED_SECTIONS:
+  - Section 1
+  - Section 66A
+  - Article 12
+  - Article 13
+  - Article 14
+  - Article 16
+  - Article 17)
+  - Article 19(
+  - Article 21
+  - Article 356
+  - Article 51A)
+  - Articles 1-
+  - Articles 12-
+  - Articles 152-
+  - Articles 32
+  - Articles 36-
+  - Articles 5-
+  - Articles 52-
+
+### ACT
+TITLE: The Indian Constitution is a dynamic document, shaped by a continuous dialogue between its core principles. The relationship between the justiciable Fundamental Rights in Part III and the non-justiciable Directive Principles in Part IV exemplifies this. Initially, the judiciary established the supremacy of Fundamental Rights in Champakam Dorairajan.18 In response, Parliament enacted amendments to prioritize socio-economic reforms outlined in the DPSPs. The judiciary, through the Basic Structure Doctrine in
+TYPE: Unspecified
+RELATED_SECTIONS:
+  - Article 12
+
+### FIELD_GLOSSARY
+- State :: As defined in Article 12 for the purpose of Fundamental Rights, it includes the Government and Parliament of India, the Government and the Legislature of each of the States, and all local or other authorities within the territory of India or under the control of the Government of India.
+- Law :: As defined in Article 13, it includes any Ordinance, order, bye-law, rule, regulation, notification, custom, or usage having in the territory of India the force of law.
+- Writ :: A formal written order issued by a court. Articles 32 and 226 of the Constitution empower the Supreme Court and High Courts, respectively, to issue writs of habeas corpus, mandamus, prohibition, quo warranto, and certiorari for the enforcement of Fundamental Rights and for any other purpose.
+- Federalism :: A system of government in which power is divided between a central authority and constituent political units, such as states. The Indian Constitution establishes a quasi-federal structure, with a clear division of legislative powers detailed in the Seventh Schedule.
+- Separation of Powers :: The constitutional principle that divides governmental authority into three branches: the legislative (makes laws), the executive (implements laws), and the judicial (interprets laws). This is a foundational feature of the Indian governmental structure.
+- Judicial Review :: The power of the judiciary, particularly the Supreme Court and High Courts, to examine the constitutionality of legislative enactments and executive orders of both the Central and State governments. Any law or order found to be in violation of the Constitution can be declared null and void.
+- Pith and Substance :: A legal doctrine used to determine which head of power (Union, State, or Concurrent List) a particular piece of legislation falls under. The court looks at the true nature and character of the legislation to ascertain its "pith and substance."

@@ -1,0 +1,54 @@
+# FIELD: Law of Evidence
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Indian Evidence Act, 1872 (IEA)
+TYPE: Historical
+DESCRIPTION: |
+  The Indian Evidence Act, 1872, was the foundational law governing the admissibility of evidence in Indian courts for over 150 years until its repeal on July 1, 2024. Drafted by Sir James Fitzjames Stephen, it provided a codified and uniform set of rules for all judicial proceedings.
+KEY_PROVISIONS: |
+  The Act was divided into three parts, 11 chapters, and 167 sections.   
+
+  Relevancy of Facts (Part I): Detailed which facts are considered relevant and may be proved in a legal proceeding. This included facts forming part of the same transaction (res gestae), facts showing motive or preparation, and admissions and confessions.   
+
+  On Proof (Part II): Classified evidence as oral and documentary. It laid down the principle that documents must be proved by primary evidence (the original document itself), with secondary evidence being admissible only in specific circumstances.   
+
+  Production and Effect of Evidence (Part III): Dealt with the burden of proof, estoppel, and the examination of witnesses.
+TERMINOLOGY:
+  - Evidence :: Defined to include (1) all statements which the court permits or requires to be made before it by witnesses (oral evidence); and (2) all documents produced for the inspection of the court (documentary evidence).
+  - Fact in Issue :: Any fact from which, either by itself or in connection with other facts, the existence, non-existence, nature, or extent of any right, liability, or disability asserted or denied in any suit or proceeding, necessarily follows.
+  - Relevant Fact :: A fact that is connected with a fact in issue in any of the ways referred to in the provisions of the Act.
+  - Presumption :: An inference of fact drawn by the court. The Act distinguished between "may presume" (discretionary), "shall presume" (mandatory but rebuttable), and "conclusive proof" (irrebuttable).
+
+### ACT
+TITLE: The Bharatiya Sakshya Adhiniyam, 2023 (BSA)
+TYPE: Current
+DESCRIPTION: |
+  The Bharatiya Sakshya Adhiniyam (BSA) is the new law of evidence in India, replacing the Indian Evidence Act, 1872, effective from July 1, 2024. It consolidates and provides for general rules and principles of evidence for a fair trial, with a significant focus on modernizing the law to accommodate electronic and digital evidence.
+KEY_PROVISIONS: |
+  The BSA retains the core structure and principles of the IEA but introduces crucial updates:
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Electronic Record :: Data, record, or data generated, image or sound stored, received, or sent in an electronic form or micro film or computer-generated microfiche.
+  - Primary Evidence :: The document itself produced for the inspection of the Court. Under the BSA, this explicitly includes electronic records stored in multiple files, where each file is considered primary evidence.
+  - Secondary Evidence :: Includes certified copies, copies made from the original by mechanical processes, and oral accounts of the contents of a document by a person who has seen it.
+  - Confession :: An admission made at any time by a person accused of an offence, stating or suggesting the inference that he committed that offence. The rules regarding the inadmissibility of confessions made to police officers are retained in the BSA.
+RELATED_SECTIONS:
+  - Section 2(d)
+  - Section 65B
+  - Section 7
+  - Article 20(
+  - Article 21
+
+### FIELD_GLOSSARY
+- Evidence :: Defined to include (1) all statements which the court permits or requires to be made before it by witnesses (oral evidence); and (2) all documents produced for the inspection of the court (documentary evidence).
+- Fact in Issue :: Any fact from which, either by itself or in connection with other facts, the existence, non-existence, nature, or extent of any right, liability, or disability asserted or denied in any suit or proceeding, necessarily follows.
+- Relevant Fact :: A fact that is connected with a fact in issue in any of the ways referred to in the provisions of the Act.
+- Presumption :: An inference of fact drawn by the court. The Act distinguished between "may presume" (discretionary), "shall presume" (mandatory but rebuttable), and "conclusive proof" (irrebuttable).
+- Electronic Record :: Data, record, or data generated, image or sound stored, received, or sent in an electronic form or micro film or computer-generated microfiche.
+- Primary Evidence :: The document itself produced for the inspection of the Court. Under the BSA, this explicitly includes electronic records stored in multiple files, where each file is considered primary evidence.
+- Secondary Evidence :: Includes certified copies, copies made from the original by mechanical processes, and oral accounts of the contents of a document by a person who has seen it.
+- Confession :: An admission made at any time by a person accused of an offence, stating or suggesting the inference that he committed that offence. The rules regarding the inadmissibility of confessions made to police officers are retained in the BSA.

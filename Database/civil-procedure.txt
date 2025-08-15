@@ -1,0 +1,50 @@
+# FIELD: Civil Procedure
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Code of Civil Procedure, 1908 (CPC)
+TYPE: Unspecified
+DESCRIPTION: |
+  The Code of Civil Procedure, 1908, is the primary procedural law that consolidates and amends the laws relating to the procedure of the Courts of Civil Judicature in India. It provides a comprehensive framework for all stages of a civil lawsuit, ensuring that disputes are adjudicated in a fair, orderly, and systematic manner.
+KEY_PROVISIONS: |
+  The CPC is uniquely structured into two parts: the main body containing 158 sections, which lay down the substantive principles of procedure, and the First Schedule, which contains 51 Orders and their corresponding Rules, detailing the specific procedures to be followed.   
+
+  Jurisdiction of Courts (Sections 9-21): Section 9 grants civil courts the jurisdiction to try all suits of a civil nature unless expressly or impliedly barred. Other sections deal with principles like res judicata (Section 11), which prevents the re-litigation of a decided matter, and rules for determining the place of suing.   
+
+  Institution of Suits (Order 4): A suit is instituted by presenting a plaint to the court.   
+
+  Pleadings (Orders 6, 7, 8): These orders govern the drafting of pleadings, which are the formal written statements of the plaintiff (plaint) and the defendant (written statement) that form the basis of the suit.   
+
+  Summons (Order 5): Details the procedure for issuing and serving summons on the defendant to ensure they are notified of the suit and have an opportunity to defend themselves.   
+
+  Judgment and Decree (Order 20): After the case has been heard, the court pronounces a judgment, which is the statement of the grounds for the decision. This is followed by a decree, the formal expression of the adjudication.   
+
+  Execution of Decrees (Order 21): This is the largest Order and provides the detailed procedure for enforcing a court's decree, including methods like attachment and sale of property or arrest and detention of the judgment-debtor.   
+
+  Appeals, Reference, Review, and Revision (Parts VII & VIII): The Code provides mechanisms for challenging or reconsidering court decisions.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Suit :: A civil proceeding initiated by the presentation of a plaint in a court of law.
+  - Plaint :: The statement of claim filed by the plaintiff, which sets out the facts of the case and the relief sought.
+  - Written Statement :: The defendant's formal reply to the plaint, admitting or denying the allegations.
+  - Decree :: The formal expression of an adjudication which, so far as regards the Court expressing it, conclusively determines the rights of the parties with regard to all or any of the matters in controversy in the suit.
+  - Order :: The formal expression of any decision of a Civil Court which is not a decree.
+  - Res Judicata :: A legal doctrine meaning "a matter adjudged," which prevents the same matter from being litigated again between the same parties.
+  - Execution :: The process of enforcing or giving effect to the decree or order of the court.
+  - Injunction :: A judicial remedy issued by a court to compel a party to do or refrain from doing a specific act.
+RELATED_SECTIONS:
+  - Section 11)
+  - Section 9
+
+### FIELD_GLOSSARY
+- Suit :: A civil proceeding initiated by the presentation of a plaint in a court of law.
+- Plaint :: The statement of claim filed by the plaintiff, which sets out the facts of the case and the relief sought.
+- Written Statement :: The defendant's formal reply to the plaint, admitting or denying the allegations.
+- Decree :: The formal expression of an adjudication which, so far as regards the Court expressing it, conclusively determines the rights of the parties with regard to all or any of the matters in controversy in the suit.
+- Order :: The formal expression of any decision of a Civil Court which is not a decree.
+- Res Judicata :: A legal doctrine meaning "a matter adjudged," which prevents the same matter from being litigated again between the same parties.
+- Execution :: The process of enforcing or giving effect to the decree or order of the court.
+- Injunction :: A judicial remedy issued by a court to compel a party to do or refrain from doing a specific act.

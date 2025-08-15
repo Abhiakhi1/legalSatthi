@@ -1,0 +1,161 @@
+# FIELD: Labour and Employment Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Industrial Disputes Act, 1947
+TYPE: Unspecified
+DESCRIPTION: |
+  This is a key piece of legislation for the investigation and settlement of industrial disputes. Its primary objective is to secure industrial peace and harmony by providing a machinery and procedure for conciliation, arbitration, and adjudication of disputes between employers and workmen.
+KEY_PROVISIONS: |
+  Definition of Industrial Dispute: Defines an industrial dispute as any dispute or difference between employers and employers, or between employers and workmen, or between workmen and workmen, which is connected with the employment or non-employment or the terms of employment.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Workman :: Any person employed in any industry to do any manual, unskilled, skilled, technical, operational, clerical, or supervisory work for hire or reward.
+  - Strike :: A cessation of work by a body of persons employed in any industry acting in combination, or a concerted refusal to continue to work.
+  - Lock-out :: The temporary closing of a place of employment, or the suspension of work, or the refusal by an employer to continue to employ any number of persons.
+  - Retrenchment :: The termination by the employer of the service of a workman for any reason whatsoever, otherwise than as a punishment inflicted by way of disciplinary action.
+
+### ACT
+TITLE: The Factories Act, 1948
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act is a comprehensive social legislation that regulates health, safety, welfare, and other working conditions of workers in factories.
+KEY_PROVISIONS: |
+  Applicability: Applies to premises where 10 or more workers are employed with the aid of power, or 20 or more without the aid of power, in a manufacturing process.   
+
+  Health (Sections 11-20): Provisions for cleanliness, disposal of wastes, ventilation, temperature, dust and fume control, and supply of drinking water.   
+
+  Safety (Sections 21-41): Mandates fencing of machinery, safety precautions for work on or near machinery in motion, and measures for fire prevention.   
+
+  Welfare (Sections 42-50): Requires facilities like washing, first-aid, canteens, crèches (for factories with more than 30 women workers), and restrooms.   
+
+  Working Hours (Sections 51-66): Restricts weekly working hours to 48, daily hours to 9, and provides for rest intervals, weekly holidays, and overtime wages at double the rate.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Factory :: Any premises where a manufacturing process is carried on.
+  - Manufacturing Process :: Includes making, altering, repairing, finishing, packing, or otherwise treating any article or substance with a view to its use, sale, transport, or disposal.
+  - Occupier :: The person who has ultimate control over the affairs of the factory.
+
+### ACT
+TITLE: The Minimum Wages Act, 1948
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act provides for fixing minimum rates of wages in certain scheduled employments. It is a key piece of social legislation aimed at preventing exploitation of labour.
+KEY_PROVISIONS: |
+  Fixing of Minimum Wages (Section 3): Empowers the appropriate government (Central or State) to fix minimum rates of wages for time work, piece work, and overtime for employees in scheduled employments.   
+
+  Procedure (Section 5): Wages are fixed and revised based on the recommendations of committees appointed by the government or by publishing proposals in the Official Gazette for public feedback.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Scheduled Employment :: An employment specified in the Schedule to the Act, for which minimum wages can be fixed.
+  - Wages :: All remuneration capable of being expressed in terms of money, payable to a person employed in respect of his employment.
+RELATED_SECTIONS:
+  - Section 3)
+  - Section 5)
+
+### ACT
+TITLE: The Employees' Provident Funds and Miscellaneous Provisions Act, 1952
+TYPE: Unspecified
+DESCRIPTION: |
+  A social security legislation that provides for the institution of provident funds, a pension fund, and a deposit-linked insurance fund for employees in factories and other establishments.
+KEY_PROVISIONS: |
+  Applicability: Applies to establishments employing 20 or more persons and engaged in industries specified in Schedule I of the Act.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Provident Fund :: A retirement savings fund to which both the employee and employer contribute.
+  - Basic Wages :: All emoluments earned by an employee while on duty, excluding certain allowances and bonuses.
+
+### ACT
+TITLE: The Payment of Gratuity Act, 1972
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act provides for a scheme for the payment of gratuity to employees engaged in factories, mines, oilfields, plantations, ports, railway companies, shops, or other establishments.
+KEY_PROVISIONS: |
+  Eligibility (Section 4): Gratuity is payable to an employee on the termination of employment after rendering continuous service for not less than five years. The five-year condition is not applicable in case of death or disablement.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Gratuity :: A lump sum payment made by an employer to an employee as a token of appreciation for their long service.
+  - Continuous Service :: Uninterrupted service, including service interrupted by sickness, accident, leave, lay-off, strike, or lock-out not due to the employee's fault.
+RELATED_SECTIONS:
+  - Section 4)
+
+### ACT
+TITLE: The Maternity Benefit Act, 1961
+TYPE: Unspecified
+DESCRIPTION: |
+  An Act to regulate the employment of women in certain establishments for certain periods before and after child-birth and to provide for maternity and other benefits.
+KEY_PROVISIONS: |
+  Paid Leave: Provides for 26 weeks of paid maternity leave for the first two children and 12 weeks for subsequent children.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Maternity Benefit :: Payment and leave benefits provided to women employees during pregnancy and childbirth.
+  - Commissioning Mother :: A biological mother who uses her egg to create an embryo implanted in another woman.
+  - Adoptive Mother :: A woman who legally adopts a child.
+
+### ACT
+TITLE: The Child Labour (Prohibition and Regulation) Act, 1986
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act prohibits the engagement of children in certain hazardous occupations and processes and regulates the conditions of work of children in other employments.
+KEY_PROVISIONS: |
+  Prohibition: Prohibits the employment of children (persons below 14 years of age) in specified hazardous occupations and processes.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Child :: A person who has not completed their fourteenth year of age.
+  - Adolescent :: A person who has completed their fourteenth year of age but has not completed their eighteenth year.
+  - Hazardous Process :: Any process or activity in relation to an industry specified in the First Schedule of the Factories Act, 1948.
+
+### ACT
+TITLE: The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act provides protection against sexual harassment of women at the workplace and for the prevention and redressal of complaints of sexual harassment. It was enacted to give effect to the Vishaka Guidelines laid down by the Supreme Court.
+KEY_PROVISIONS: |
+  Definition of Sexual Harassment (Section 2(n)): Includes unwelcome acts such as physical contact, a demand for sexual favours, sexually coloured remarks, showing pornography, or any other unwelcome physical, verbal, or non-verbal conduct of a sexual nature.   
+
+  Internal Complaints Committee (ICC) (Section 4): Mandates every employer of a workplace with 10 or more employees to constitute an ICC to receive and redress complaints.   
+
+  Local Committee (LC) (Section 6): Provides for the constitution of a Local Committee by the District Officer to receive complaints from establishments with fewer than 10 workers or if the complaint is against the employer himself.
+TERMINOLOGY:
+  - Aggrieved Woman :: A woman of any age, whether employed or not, who alleges to have been subjected to any act of sexual harassment.
+  - Workplace :: Defined broadly to include government bodies, private sector organizations, hospitals, educational institutions, and even dwelling places or houses where domestic workers are employed.
+  - Internal Complaints Committee (ICC) :: The internal body constituted by an employer to handle complaints of sexual harassment.
+RELATED_SECTIONS:
+  - Section 15
+  - Section 2(n))
+  - Section 4)
+  - Section 6)
+  - Article 23
+  - Article 24
+  - Article 43
+
+### FIELD_GLOSSARY
+- Workman :: Any person employed in any industry to do any manual, unskilled, skilled, technical, operational, clerical, or supervisory work for hire or reward.
+- Strike :: A cessation of work by a body of persons employed in any industry acting in combination, or a concerted refusal to continue to work.
+- Lock-out :: The temporary closing of a place of employment, or the suspension of work, or the refusal by an employer to continue to employ any number of persons.
+- Retrenchment :: The termination by the employer of the service of a workman for any reason whatsoever, otherwise than as a punishment inflicted by way of disciplinary action.
+- Factory :: Any premises where a manufacturing process is carried on.
+- Manufacturing Process :: Includes making, altering, repairing, finishing, packing, or otherwise treating any article or substance with a view to its use, sale, transport, or disposal.
+- Scheduled Employment :: An employment specified in the Schedule to the Act, for which minimum wages can be fixed.
+- Wages :: All remuneration capable of being expressed in terms of money, payable to a person employed in respect of his employment.
+- Provident Fund :: A retirement savings fund to which both the employee and employer contribute.
+- Basic Wages :: All emoluments earned by an employee while on duty, excluding certain allowances and bonuses.
+- Gratuity :: A lump sum payment made by an employer to an employee as a token of appreciation for their long service.
+- Continuous Service :: Uninterrupted service, including service interrupted by sickness, accident, leave, lay-off, strike, or lock-out not due to the employee's fault.
+- Maternity Benefit :: Payment and leave benefits provided to women employees during pregnancy and childbirth.
+- Commissioning Mother :: A biological mother who uses her egg to create an embryo implanted in another woman.
+- Child :: A person who has not completed their fourteenth year of age.
+- Adolescent :: A person who has completed their fourteenth year of age but has not completed their eighteenth year.
+- Hazardous Process :: Any process or activity in relation to an industry specified in the First Schedule of the Factories Act, 1948.
+- Aggrieved Woman :: A woman of any age, whether employed or not, who alleges to have been subjected to any act of sexual harassment.
+- Workplace :: Defined broadly to include government bodies, private sector organizations, hospitals, educational institutions, and even dwelling places or houses where domestic workers are employed.
+- Internal Complaints Committee (ICC) :: The internal body constituted by an employer to handle complaints of sexual harassment.

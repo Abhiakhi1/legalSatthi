@@ -1,0 +1,21 @@
+# FIELD: Parsi Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Parsi Marriage and Divorce Act, 1936
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act codifies the law relating to marriage and divorce among Parsis in India. It replaced an earlier act from 1865 and provides a comprehensive legal framework for Parsi matrimonial matters.
+KEY_PROVISIONS: |
+  Requisites to Validity of Marriage (Section 3): A Parsi marriage is valid only if it is solemnized according to the Parsi ceremony of "Ashirvad" by a priest in the presence of two Parsi witnesses. It also prohibits marriages within the degrees of consanguinity or affinity and requires the consent of the father or guardian for parties under 21.
+TERMINOLOGY:
+  - Ashirvad :: The Parsi marriage ceremony.
+RELATED_SECTIONS:
+  - Section 3)
+  - Section 32)
+  - Section 6)
+
+### FIELD_GLOSSARY
+- Ashirvad :: The Parsi marriage ceremony.

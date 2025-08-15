@@ -1,0 +1,87 @@
+# FIELD: Hindu Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Hindu Marriage Act, 1955
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act amends and codifies the law relating to marriage among Hindus. It introduced the concept of monogamy and divorce, which were not traditionally part of Hindu law, and established a uniform legal framework for marriage for all sections of Hindus.
+KEY_PROVISIONS: |
+  Conditions for a Hindu Marriage (Section 5): Lays down the conditions for a valid marriage, including monogamy (neither party has a living spouse), soundness of mind, and marriageable age (21 for the groom, 18 for the bride). It also prohibits marriages within the "degrees of prohibited relationship" and between "sapindas," unless custom permits.   
+
+  Ceremonies for a Hindu Marriage (Section 7): Recognizes that a marriage may be solemnized in accordance with the customary rites and ceremonies of either party. It specifies that the marriage becomes complete and binding when the seventh step is taken before the sacred fire (Saptapadi).   
+
+  Registration of Hindu Marriages (Section 8): Provides for the registration of Hindu marriages by State Governments to facilitate proof of marriage.   
+
+  Restitution of Conjugal Rights (Section 9): Allows a spouse to petition the court for the restitution of conjugal rights if the other spouse has withdrawn from their society without reasonable excuse.   
+
+  Judicial Separation (Section 10): Allows either party to seek a decree of judicial separation on specified grounds, which permits them to live separately without dissolving the marriage.   
+
+  Divorce (Section 13): Lists the grounds for divorce, including adultery, cruelty, desertion, conversion to another religion, and incurable unsoundness of mind.
+
+  Divorce by Mutual Consent (Section 13B): Allows for divorce by mutual consent if the parties have been living separately for one year or more and mutually agree that the marriage should be dissolved.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Monogamy :: The practice of being married to one person at a time. The Act makes bigamy a punishable offense.
+  - Sapinda Relationship :: Refers to relatives within a certain degree of closeness on both the paternal and maternal sides, between whom marriage is prohibited.
+  - Degrees of Prohibited Relationship :: Refers to specific relationships by blood or affinity (e.g., direct ascendants/descendants, siblings) between whom marriage is prohibited.
+  - Judicial Separation :: A legal process by which a married couple may formalize a de facto separation while remaining legally married.
+  - Restitution of Conjugal Rights :: A legal remedy available to a deserted spouse to compel the other spouse to cohabit.
+  - Alimony/Maintenance :: Financial support that a person is ordered by a court to give to their spouse during separation or following divorce.
+RELATED_SECTIONS:
+  - Section 10)
+  - Section 13)
+  - Section 13B)
+  - Section 5)
+  - Section 7)
+  - Section 8)
+  - Section 9)
+
+### ACT
+TITLE: The Hindu Succession Act, 1956
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act amends and codifies the law relating to intestate (unwilled) succession among Hindus, Buddhists, Jains, and Sikhs. It established a uniform and comprehensive system of inheritance and succession, significantly altering traditional Hindu law.
+KEY_PROVISIONS: |
+  Devolution of Interest in Coparcenary Property (Section 6): Originally, this section dealt with the devolution of interest in Mitakshara coparcenary property. The 2005 amendment revolutionized this by granting daughters the same rights as sons in coparcenary property by birth.
+
+  General Rules of Succession in the Case of Males (Section 8): Provides that the property of a Hindu male dying intestate devolves first upon the heirs specified in Class I of the Schedule, then upon Class II heirs, then upon agnates, and finally upon cognates.   
+
+  General Rules of Succession in the Case of Females (Section 15): Lays down the rules for the succession of property of a Hindu female dying intestate, with the order of heirs depending on the source from which she acquired the property.   
+
+  Full Ownership for Female Hindus (Section 14): Abolished the concept of a "limited estate" for Hindu women, providing that any property possessed by a female Hindu is to be held by her as her full owner and not as a limited owner.   
+
+  Disqualifications from Inheritance (Sections 25-28): Specifies certain disqualifications, such as a murderer being disqualified from inheriting the property of the person murdered.   
+
+  Related Amendments:
+RELATED_SECTIONS:
+  - Section 14)
+  - Section 15)
+  - Section 6)
+  - Section 8)
+
+### ACT
+TITLE: The Hindu Succession (Amendment) Act, 2005: This was a landmark amendment that granted daughters the status of a coparcener in a Hindu Undivided Family, giving them equal rights and liabilities in ancestral property as sons.
+TYPE: Unspecified
+TERMINOLOGY:
+  - Intestate :: The condition of dying without a valid will.
+  - Coparcener :: A person who has a birthright in ancestral property. Under the amended law, this includes daughters.
+  - Ancestral Property :: Property inherited by a Hindu from his father, father's father, or father's father's father.
+  - Self-Acquired Property :: Property acquired by a person through their own efforts, or through a gift or will, in which they have absolute ownership.
+  - Class I Heirs :: The primary heirs of a deceased Hindu male, including the mother, widow, sons, and daughters, who inherit simultaneously and to the exclusion of all other heirs.
+
+### FIELD_GLOSSARY
+- Monogamy :: The practice of being married to one person at a time. The Act makes bigamy a punishable offense.
+- Sapinda Relationship :: Refers to relatives within a certain degree of closeness on both the paternal and maternal sides, between whom marriage is prohibited.
+- Degrees of Prohibited Relationship :: Refers to specific relationships by blood or affinity (e.g., direct ascendants/descendants, siblings) between whom marriage is prohibited.
+- Judicial Separation :: A legal process by which a married couple may formalize a de facto separation while remaining legally married.
+- Restitution of Conjugal Rights :: A legal remedy available to a deserted spouse to compel the other spouse to cohabit.
+- Alimony/Maintenance :: Financial support that a person is ordered by a court to give to their spouse during separation or following divorce.
+- Intestate :: The condition of dying without a valid will.
+- Coparcener :: A person who has a birthright in ancestral property. Under the amended law, this includes daughters.
+- Ancestral Property :: Property inherited by a Hindu from his father, father's father, or father's father's father.
+- Self-Acquired Property :: Property acquired by a person through their own efforts, or through a gift or will, in which they have absolute ownership.
+- Class I Heirs :: The primary heirs of a deceased Hindu male, including the mother, widow, sons, and daughters, who inherit simultaneously and to the exclusion of all other heirs.

@@ -1,0 +1,25 @@
+# FIELD: Law of Torts
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Motor Vehicles Act, 1988: Provides for compulsory third-party insurance and a framework for claiming compensation in motor vehicle accidents, including provisions for no-fault liability.
+TYPE: Unspecified
+
+### ACT
+TITLE: The Consumer Protection Act, 2019: Provides remedies for consumers against defective goods and deficient services, which overlaps with tortious principles of negligence.
+TYPE: Unspecified
+
+### ACT
+TITLE: The Fatal Accidents Act, 1855: Allows the family of a deceased person to sue for damages for the loss caused by the death.
+TYPE: Unspecified
+TERMINOLOGY:
+  - Tort :: A civil wrong, independent of contract, for which the remedy is an action for unliquidated damages.
+  - Unliquidated Damages :: Damages that are not pre-determined by a contract but are assessed by the court based on the loss or harm suffered.
+  - Duty of Care :: A legal obligation which is imposed on an individual requiring adherence to a standard of reasonable care while performing any acts that could foreseeably harm others.
+
+### FIELD_GLOSSARY
+- Tort :: A civil wrong, independent of contract, for which the remedy is an action for unliquidated damages.
+- Unliquidated Damages :: Damages that are not pre-determined by a contract but are assessed by the court based on the loss or harm suffered.
+- Duty of Care :: A legal obligation which is imposed on an individual requiring adherence to a standard of reasonable care while performing any acts that could foreseeably harm others.

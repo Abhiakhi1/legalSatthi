@@ -1,0 +1,103 @@
+# FIELD: Tax Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Income Tax Act, 1961
+TYPE: Unspecified
+DESCRIPTION: |
+  This is the primary statute that governs the levy, administration, collection, and recovery of income tax in India. It applies to all persons earning income in India.
+KEY_PROVISIONS: |
+  Heads of Income (Section 14): Income is classified under five heads for the purpose of taxation: Salaries; Income from house property; Profits and gains of business or profession; Capital gains; and Income from other sources.   
+
+  Residential Status (Section 6): The tax liability of an individual depends on their residential status (Resident and Ordinarily Resident, Resident but Not Ordinarily Resident, or Non-Resident).
+
+  Deductions (Chapter VIA): Provides for various deductions from gross total income, such as those under Section 80C (for investments in specified instruments), 80D (for health insurance premiums), and 80G (for donations).
+
+  Tax Deducted at Source (TDS): A mechanism where the person responsible for making specified payments (like salary, interest, rent) is liable to deduct tax at the source and deposit it with the government.
+TERMINOLOGY:
+  - Assessee :: A person by whom any tax or any other sum of money is payable under the Act.
+  - Previous Year :: The financial year immediately preceding the assessment year, in which the income is earned.
+  - Assessment Year :: The period of twelve months commencing on the 1st day of April every year, during which the income of the previous year is taxed.
+  - Gross Total Income :: The total income computed in accordance with the provisions of the Act before making any deductions under Chapter VI-A.
+RELATED_SECTIONS:
+  - Section 14)
+  - Section 6)
+  - Section 80C
+
+### ACT
+TITLE: The Central Goods and Services Tax Act, 2017
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act provides for the levy and collection of a tax on the intra-state supply of goods or services or both by the Central Government. It is a part of the comprehensive Goods and Services Tax (GST) regime introduced in India, which subsumed multiple indirect taxes.
+KEY_PROVISIONS: |
+  Levy and Collection (Section 9): Provides for the levy of Central Goods and Services Tax (CGST) on all intra-state supplies of goods or services, except on the supply of alcoholic liquor for human consumption.   
+
+  Composition Levy (Section 10): A simplified tax payment scheme for small taxpayers with a specified turnover.   
+
+  Input Tax Credit (ITC): A mechanism to allow taxpayers to claim credit for the GST paid on inputs used in the course of business.
+TERMINOLOGY:
+  - Goods and Services Tax (GST) :: A destination-based indirect tax on the supply of goods and services.
+  - Supply :: The taxable event under GST, which includes all forms of supply of goods or services such as sale, transfer, barter, exchange, license, rental, lease, or disposal made for a consideration.
+  - Intra-State Supply :: Supply of goods or services where the location of the supplier and the place of
+RELATED_SECTIONS:
+  - Section 10)
+  - Section 9)
+  - Article 279A
+
+### ACT
+TITLE: The Constitutional Matrix of Indian Law: A Comprehensive Dataset and Analysis
+TYPE: Unspecified
+
+### ACT
+TITLE: The Constitution of India, adopted on 26 November 1949 and effective from 26 January 1950, is the fons et origo—the source and origin—of the entire legal framework of the Republic of India.1 It is not merely a statute among others but the supreme legal authority that establishes, empowers, and limits the three organs of the state: the legislature, the executive, and the judiciary.3 Every law enacted, every executive action taken, and every judicial decision rendered must conform to its principles. This report is built upon this foundational premise, systematically tracing the diverse fields of Indian law back to their constitutional roots.
+TYPE: Unspecified
+
+### ACT
+TITLE: The Constitution's supremacy is unequivocally declared in its Preamble, which has been described as the "soul of the Constitution".4 It outlines the core values of India as a Sovereign, Socialist, Secular, Democratic Republic, committed to securing for all its citizens Justice, Liberty, Equality, and Fraternity.5 The Preamble's opening and closing words, "We, the people... adopt, enact and give to ourselves this Constitution," signify that ultimate sovereignty resides with the people, who are the source of all authority.4
+TYPE: Unspecified
+
+### ACT
+TITLE: The official Marathi translation, "भारतीय संविधानाची उद्देशिका" (Bharatiya Samvidhanachi Uddeshika), mirrors these profound commitments, establishing the foundational philosophy upon which the nation's governance is built.6 The Constitution establishes a parliamentary system of government that is federal in structure but with distinct unitary features, a crucial characteristic for understanding the distribution of powers.1
+TYPE: Unspecified
+RELATED_SECTIONS:
+  - Article 246
+  - Article 254
+
+### ACT
+TITLE: The journey of Indian constitutional law has been marked by a dynamic tension between parliamentary sovereignty and constitutional supremacy. This tension was ultimately resolved through the judicial innovation of the Basic Structure Doctrine. This doctrine, a profound contribution to global constitutionalism, posits that while Parliament has the power to amend the Constitution under Article 368, it cannot alter or destroy its fundamental features.
+TYPE: Unspecified
+RELATED_SECTIONS:
+  - Article 368
+
+### ACT
+TITLE: The evolution of this doctrine reflects a compelling dialogue between the judiciary and the legislature. In the initial years post-independence, the judiciary, in cases like Shankari Prasad v. Union of India (1951) and Sajjan Singh v. State of Rajasthan (1965), upheld Parliament's unfettered power to amend any part of the Constitution, including Fundamental Rights. This deference was largely driven by the perceived necessity of socio-economic reforms, such as land redistribution, which required amending the right to property.17
+TYPE: Unspecified
+
+### ACT
+TITLE: The power of Judicial Review, embedded in Articles 13, 32, and 226, is the mechanism through which the judiciary enforces constitutional supremacy. It allows the Supreme Court and High Courts to strike down any legislative or executive action found to be in violation of the Constitution, particularly the Fundamental Rights.3
+TYPE: Unspecified
+RELATED_SECTIONS:
+  - Articles 13
+
+### ACT
+TITLE: The scope of this review was profoundly expanded by the Supreme Court in Maneka Gandhi v. Union of India (1978). This case established the "Golden Triangle," an inextricable link between Articles 14 (Right to Equality), 19 (Right to Freedom), and 21 (Right to Life and Personal Liberty).21 The Court held that the "procedure established by law" under Article 21 must not only be formally enacted but must also be "just, fair, and reasonable." A procedure that is arbitrary (violating Article 14) or imposes unreasonable restrictions (violating Article 19) cannot be considered a valid procedure at all.
+TYPE: Unspecified
+RELATED_SECTIONS:
+  - Section 13
+  - Article 14)
+  - Article 19)
+  - Article 21
+  - Article 246A
+  - Article 265
+  - Articles 14
+
+### FIELD_GLOSSARY
+- Assessee :: A person by whom any tax or any other sum of money is payable under the Act.
+- Previous Year :: The financial year immediately preceding the assessment year, in which the income is earned.
+- Assessment Year :: The period of twelve months commencing on the 1st day of April every year, during which the income of the previous year is taxed.
+- Gross Total Income :: The total income computed in accordance with the provisions of the Act before making any deductions under Chapter VI-A.
+- Goods and Services Tax (GST) :: A destination-based indirect tax on the supply of goods and services.
+- Supply :: The taxable event under GST, which includes all forms of supply of goods or services such as sale, transfer, barter, exchange, license, rental, lease, or disposal made for a consideration.
+- Intra-State Supply :: Supply of goods or services where the location of the supplier and the place of

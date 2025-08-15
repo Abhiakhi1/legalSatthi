@@ -1,0 +1,10 @@
+# FIELD: Law of Criminal Procedure
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The replacement of the Code of Criminal Procedure, 1973, with the Bharatiya Nagarik Suraksha Sanhita, 2023, marks a pivotal shift towards integrating technology into the criminal justice system.131 The introduction of provisions for e-FIRs, electronic service of summons, and the audio-video recording of statements and searches (under Section 105 BNSS) fundamentally alters the evidence collection process.137 This is not a mere procedural update but a move towards greater transparency, accountability, and efficiency. This digital transformation creates new forms of evidence, which will be governed by the Bharatiya Sakshya Adhiniyam, 2023, thus forging a tightly integrated new criminal justice ecosystem that demands significant investment in infrastructure and training for law enforcement and the judiciary.
+TYPE: Unspecified
+RELATED_SECTIONS:
+  - Section 105

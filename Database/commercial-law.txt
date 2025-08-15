@@ -1,0 +1,48 @@
+# FIELD: Commercial Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Indian Partnership Act, 1932
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act governs partnership firms in India. It defines the relationship between partners and lays down their mutual rights and duties, as well as their relationship with third parties.
+KEY_PROVISIONS: |
+  Definition of Partnership (Section 4): "Partnership" is the relation between persons who have agreed to share the profits of a business carried on by all or any of them acting for all.
+TERMINOLOGY:
+  - Partnership :: The relation between persons who have agreed to share the profits of a business.
+RELATED_SECTIONS:
+  - Section 4)
+  - Section 58)
+
+### ACT
+TITLE: The Negotiable Instruments Act, 1881
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act is the primary legislation governing negotiable instruments in India, such as promissory notes, bills of exchange, and cheques. It defines these instruments and lays down the rules for their negotiation, presentment, and discharge.
+KEY_PROVISIONS: |
+  Definitions (Sections 4, 5, 6): Defines "Promissory Note," "Bill of Exchange," and "Cheque."
+
+  Negotiation (Sections 14, 46-48): An instrument is negotiated when it is transferred to any person so as to constitute that person the holder of it. A bearer instrument is negotiated by delivery, while an order instrument is negotiated by endorsement and delivery.   
+
+  Holder and Holder in Due Course (Sections 8, 9): A "holder" is any person entitled in his own name to the possession of the instrument and to receive or recover the amount due thereon. A "holder in due course" is a holder who has taken the instrument for consideration and in good faith before it became overdue.
+
+  Dishonour of Cheques (Section 138): This is a crucial provision that makes the dishonour of a cheque for insufficiency of funds a criminal offense, punishable with imprisonment or a fine, or both. This provision was introduced to enhance the credibility of cheques as a mode of payment.
+TERMINOLOGY:
+  - Negotiable Instrument :: A written document which creates a right in favour of some person and which is freely transferable. Section 13 defines it as a promissory note, bill of exchange, or cheque payable either to order or to bearer.
+  - Promissory Note :: An instrument in writing containing an unconditional undertaking, signed by the maker, to pay a certain sum of money only to, or to the order of, a certain person, or to the bearer of the instrument.
+  - Bill of Exchange :: An instrument in writing containing an unconditional order, signed by the maker, directing a certain person to pay a certain sum of money only to, or to the order of, a certain person or to the bearer of the instrument.
+  - Cheque :: A bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand.
+  - Endorsement :: The act of a payee or holder of a negotiable instrument signing their name on the back of it to transfer it to another person.
+RELATED_SECTIONS:
+  - Section 13
+  - Section 138)
+
+### FIELD_GLOSSARY
+- Partnership :: The relation between persons who have agreed to share the profits of a business.
+- Negotiable Instrument :: A written document which creates a right in favour of some person and which is freely transferable. Section 13 defines it as a promissory note, bill of exchange, or cheque payable either to order or to bearer.
+- Promissory Note :: An instrument in writing containing an unconditional undertaking, signed by the maker, to pay a certain sum of money only to, or to the order of, a certain person, or to the bearer of the instrument.
+- Bill of Exchange :: An instrument in writing containing an unconditional order, signed by the maker, directing a certain person to pay a certain sum of money only to, or to the order of, a certain person or to the bearer of the instrument.
+- Cheque :: A bill of exchange drawn on a specified banker and not expressed to be payable otherwise than on demand.
+- Endorsement :: The act of a payee or holder of a negotiable instrument signing their name on the back of it to transfer it to another person.

@@ -1,0 +1,13 @@
+# FIELD: Criminal Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The transition from the Indian Penal Code, 1860, to the Bharatiya Nyaya Sanhita, 2023, signifies more than a mere change in nomenclature; it reflects a substantive legislative effort to decolonize and modernize Indian criminal law.87 This is evident in the introduction of new-age offenses such as 'organised crime' (संघटित गुन्हेगारी) under Section 111 and 'terrorist act' (दहशतवादी कृत्य) under Section 113, which address contemporary threats not explicitly codified in the old law.88 A crucial structural change is the re-prioritization of offenses against women and children, which are now consolidated in a dedicated chapter (Chapter V) that precedes the general chapter on offenses against the human body (Chapter VI).88 This symbolic and substantive shift underscores a legislative recognition of the evolving nature of crime and the state's duty to protect its most vulnerable citizens.
+TYPE: Unspecified
+RELATED_SECTIONS:
+  - Section 103(
+  - Section 111
+  - Section 113
+  - Section 69

@@ -1,0 +1,110 @@
+# FIELD: Archives of Repealed and Historical Laws
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The legal landscape of India is not only defined by its current statutes but also by the laws it has repealed. This history is a narrative of the nation's evolution from a colonial entity to a sovereign republic, reflecting a continuous effort to align its legal framework with its constitutional ethos.
+TYPE: Unspecified
+
+### ACT
+TITLE: The most significant recent development has been the replacement of the triumvirate of colonial criminal laws—the Indian Penal Code, 1860 (IPC), the Code of Criminal Procedure, 1898/1973 (CrPC), and the Indian Evidence Act, 1872 (IEA)—with the Bharatiya Nyaya Sanhita, 2023 (BNS), the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS), and the Bharatiya Sakshya Adhiniyam, 2023 (BSA) respectively.93 The original codes were drafted during the British Raj to consolidate law and establish imperial control.139 While they served as the bedrock of India's criminal justice system for over a century, their repeal represents a profound act of constitutional and political re-assertion, aiming to replace a framework designed for colonial administration with one that reflects indigenous values and modern realities.87
+TYPE: Unspecified
+
+### ACT
+TITLE: The Land Acquisition Act, 1894, was a quintessential colonial law designed to facilitate the acquisition of land for "public purposes," which often meant building railways, canals, and other infrastructure to serve British economic and administrative interests.246 The Act prioritized state power over individual rights, offering compensation that was often seen as inadequate and providing minimal provisions for the rehabilitation of displaced communities. This state-centric approach remained in force for decades after independence, creating a stark conflict with the constitutional guarantees of justice and dignity. The replacement of this Act with The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013, marked a paradigm shift. The new law is framed in the language of rights, mandating social impact assessments, consent from affected families, and ensuring not just fair compensation but also comprehensive rehabilitation and resettlement, thereby aligning the law with the welfare state principles of the Constitution.246
+TYPE: Unspecified
+
+### ACT
+TITLE: The Union List, State List and the Concurrent List is included in which 'Schedule' of the Indian Constitution? - Testbook, accessed on August 13, 2025, https://testbook.com/question-answer/the-union-list-state-list-and-the-concurrent-list--62b4233cfdc6cbe6699c154d
+TYPE: Unspecified
+
+### ACT
+TITLE: The Landmark Keshavnanda Bharti Case and Its Impact on Indian Constitutional Law, accessed on August 13, 2025, https://sleepyclasses.com/keshvnanda-bharti-case-and-its-impact/
+TYPE: Unspecified
+RELATED_SECTIONS:
+  - Article 21
+  - Article 5
+  - Articles 1-
+  - Articles 12
+
+### ACT
+TITLE: THE CONSTITUTION OF INDIA, accessed on August 13, 2025, https://www.indiacode.nic.in/bitstream/123456789/16124/1/the_constitution_of_india.pdf
+TYPE: Unspecified
+RELATED_SECTIONS:
+  - Article 14
+
+### ACT
+TITLE: The Landmark Judgment: Indra Sawhney vs Union of India and Its Impact on Reservation Policies - Sleepy Classes, accessed on August 13, 2025, https://sleepyclasses.com/indra-sawhney-vs-union-of-india/
+TYPE: Unspecified
+
+### ACT
+TITLE: The constitution and the criminal justice system(s) of India, accessed on August 13, 2025, https://p39ablog.com/2021/07/the-constitution-and-the-criminal-justice-systems-of-india/
+TYPE: Unspecified
+
+### ACT
+TITLE: The Bharatiya Nyaya Sanhita, 2023 - PRS India, accessed on August 13, 2025, https://prsindia.org/billtrack/the-bharatiya-nyaya-sanhita-2023
+TYPE: Unspecified
+
+### ACT
+TITLE: THE BHARATIYA NYAYA SANHITA, 2023 NO. 45 OF 2023 An Act to ..., accessed on August 13, 2025, https://www.mha.gov.in/sites/default/files/250883_english_01042024.pdf
+TYPE: Unspecified
+
+### ACT
+TITLE: The Bharatiya Nagarik Suraksha Sanhita, 2023 - PRS India, accessed on August 13, 2025, https://prsindia.org/billtrack/the-bharatiya-nagarik-suraksha-sanhita-2023
+TYPE: Unspecified
+
+### ACT
+TITLE: THE BHARATIYA NAGARIK SURAKSHA SANHITA 2023 - NCERT, accessed on August 13, 2025, https://ncert.nic.in/pdf/module/New_Laws_2023/BNSS910-2023E.pdf
+TYPE: Unspecified
+
+### ACT
+TITLE: THE BHARATIYA NAGARIK SURAKSHA SANHITA 2023 - NCERT, accessed on August 13, 2025, https://ncert.nic.in/pdf/module/New_Laws_2023/BNSS-2023E.pdf
+TYPE: Unspecified
+
+### ACT
+TITLE: The Code of Civil Procedure, 1908 (Act No. 5 of 1908) - India Code, accessed on August 13, 2025, https://www.indiacode.nic.in/bitstream/123456789/11087/1/the_code_of_civil_procedure%2C_1908.pdf
+TYPE: Unspecified
+
+### ACT
+TITLE: THE CODE OF CIVIL PROCEDURE, 1908 - Supreme Court Legal Services Committee, accessed on August 13, 2025, https://sclsc.gov.in/theme/front/pdf/ACTS%20FINAL/THE%20CODE%20OF%20CIVIL%20PROCEDURE,%201908.pdf
+TYPE: Unspecified
+
+### ACT
+TITLE: The Code of Civil Procedure, 1908 - Indian Kanoon, accessed on August 13, 2025, https://indiankanoon.org/doc/161831507/
+TYPE: Unspecified
+
+### ACT
+TITLE: The Bharatiya Adhiniyam Bill, 2023: A primer on the legislation replacing to Indian Evidence Act, 18721 (3/3), accessed on August 13, 2025, https://www.cyrilshroff.com/wp-content/uploads/2024/01/Client-Alert-Evidence-Bharatiya-Sakshya-Bill-2023_Part-3.pdf
+TYPE: Unspecified
+
+### ACT
+TITLE: THE INDIAN EVIDENCE ACT, 1872 Last updated:-13-3-2020, accessed on August 13, 2025, https://www.indiacode.nic.in/bitstream/123456789/15351/1/iea_1872.pdf
+TYPE: Unspecified
+
+### ACT
+TITLE: THE INDIAN CONTRACT ACT, 1872 ARRANGEMENT OF SECTIONS - India Code, accessed on August 13, 2025, https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf
+TYPE: Unspecified
+RELATED_SECTIONS:
+  - Section 2(h)
+  - Article 13
+
+### ACT
+TITLE: The Competition Act, 2002 - Wikipedia, accessed on August 13, 2025, https://en.wikipedia.org/wiki/The_Competition_Act,_2002
+TYPE: Unspecified
+
+### ACT
+TITLE: The Constitution of India and International Law - iPleaders, accessed on August 13, 2025, https://blog.ipleaders.in/constitution-of-india/
+TYPE: Unspecified
+
+### ACT
+TITLE: THE CODE OF CRIMINAL PROCEDURE, 1898, accessed on August 13, 2025, http://bdcode.gov.bd/upload/bdcodeactpart/2019-07-30-12-01-42-41_2_The_Code_of_Criminal_Procedure-Sayed-2.pdf
+TYPE: Unspecified
+
+### ACT
+TITLE: The Code of Criminal Procedure, 1898 - Laws of Bangladesh, accessed on August 13, 2025, http://bdlaws.minlaw.gov.bd/act-75.html
+TYPE: Unspecified
+
+### ACT
+TITLE: The Code of Criminal Procedure, 1898 - Laws of Bangladesh, accessed on August 13, 2025, http://bdlaws.minlaw.gov.bd/act-details-75.html
+TYPE: Unspecified

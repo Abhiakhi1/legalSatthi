@@ -1,0 +1,66 @@
+# FIELD: Secular Family Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Special Marriage Act, 1954
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act provides for a special form of civil marriage that can be solemnized between any two persons, irrespective of their religion, caste, or creed. It also provides for the registration of marriages celebrated in other forms. It is a secular alternative to personal laws.
+KEY_PROVISIONS: |
+  Conditions for Marriage (Section 4): The conditions are similar to other marriage acts and include monogamy, valid consent, marriageable age (21 for males, 18 for females), and not being within the degrees of prohibited relationship.   
+
+  Procedure (Sections 5-14): Parties must give a notice of intended marriage to the Marriage Officer of the district where at least one of them has resided for 30 days. The notice is published, and a 30-day waiting period is provided for objections before the marriage can be solemnized.
+TERMINOLOGY:
+  - Civil Marriage :: A marriage performed, recorded, and recognized by a government official, independent of any religious ceremony.
+  - Marriage Officer :: An official appointed by the government to solemnize and register marriages under this Act.
+  - Prohibited Relationship :: Defined in the First Schedule of the Act, includes relationships by blood and affinity.
+RELATED_SECTIONS:
+  - Section 4)
+
+### ACT
+TITLE: The Guardians and Wards Act, 1890
+TYPE: Unspecified
+DESCRIPTION: |
+  This is a secular law that governs the appointment and duties of guardians for minors and their property. It is a comprehensive statute that applies to all communities in India, supplementing their personal laws on guardianship.
+KEY_PROVISIONS: |
+  Power of the Court to make order as to guardianship (Section 7): Empowers the District Court to appoint a guardian for a minor's person or property (or both) if it is satisfied that it is for the welfare of the minor.   
+
+  Matters to be considered by the Court (Section 17): In appointing a guardian, the court must have regard to the law to which the minor is subject, the age, sex, and religion of the minor, the character and capacity of the proposed guardian, and the preference of the minor if they are old enough to form an intelligent preference.   
+
+  Duties of Guardian (Sections 24-27): A guardian is charged with the custody, support, health, and education of the ward and must manage the ward's property prudently.
+TERMINOLOGY:
+  - Minor :: A person who has not attained the age of majority under the Indian Majority Act, 1875 (i.e., 18 years).
+  - Guardian :: A person having the care of the person of a minor or of his property, or of both his person and property.
+  - Ward :: A minor for whose person or property, or both, there is a guardian.
+RELATED_SECTIONS:
+  - Section 17)
+  - Section 7)
+
+### ACT
+TITLE: The Family Courts Act, 1984
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act provides for the establishment of Family Courts with a view to promoting conciliation in, and securing speedy settlement of, disputes relating to marriage and family affairs.
+KEY_PROVISIONS: |
+  Establishment of Family Courts (Section 3): State Governments are required to establish Family Courts in every city or town with a population exceeding one million.
+
+  Jurisdiction (Section 7): Family Courts have jurisdiction over suits and proceedings relating to matrimonial relief (divorce, judicial separation, nullity), property of the spouses, guardianship, and maintenance.
+TERMINOLOGY:
+  - Family Court :: A specialized court established to deal with family law matters.
+  - Conciliation :: A form of alternative dispute resolution where a neutral third party helps the disputing parties to reach a mutually agreeable settlement.
+  - In Camera Proceedings :: Legal proceedings conducted in private, without the public or press being present.
+RELATED_SECTIONS:
+  - Section 3)
+  - Section 7)
+
+### FIELD_GLOSSARY
+- Civil Marriage :: A marriage performed, recorded, and recognized by a government official, independent of any religious ceremony.
+- Marriage Officer :: An official appointed by the government to solemnize and register marriages under this Act.
+- Prohibited Relationship :: Defined in the First Schedule of the Act, includes relationships by blood and affinity.
+- Minor :: A person who has not attained the age of majority under the Indian Majority Act, 1875 (i.e., 18 years).
+- Guardian :: A person having the care of the person of a minor or of his property, or of both his person and property.
+- Family Court :: A specialized court established to deal with family law matters.
+- Conciliation :: A form of alternative dispute resolution where a neutral third party helps the disputing parties to reach a mutually agreeable settlement.
+- In Camera Proceedings :: Legal proceedings conducted in private, without the public or press being present.

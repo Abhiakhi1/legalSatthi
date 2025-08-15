@@ -1,0 +1,68 @@
+# FIELD: Banking and Finance Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Banking Regulation Act, 1949
+TYPE: Unspecified
+DESCRIPTION: |
+  This is the primary legislation that provides a framework for regulating all banking firms in India. It empowers the Reserve Bank of India (RBI) to license banks, regulate their shareholding and management, and supervise their operations to protect the interests of depositors.
+KEY_PROVISIONS: |
+  Definition of Banking (Section 5(b)): Defines banking as "the accepting, for the purpose of lending or investment, of deposits of money from the public, repayable on demand or otherwise, and withdrawable by cheque, draft, order or otherwise".   
+
+  Licensing of Banks (Section 22): Prohibits any company from carrying on banking business in India without obtaining a license from the RBI.   
+
+  Regulation of Business (Sections 6, 8): Specifies the forms of business in which banking companies may engage and prohibits them from directly or indirectly engaging in trading activities.
+TERMINOLOGY:
+  - Banking Company :: Any company which transacts the business of banking in India.
+  - Reserve Fund :: A fund created by a company out of its profits to strengthen its financial position.
+  - Prudential Norms :: Norms issued by the RBI relating to income recognition, asset classification, and provisioning for bad and doubtful debts.
+RELATED_SECTIONS:
+  - Section 22)
+  - Section 5(b))
+
+### ACT
+TITLE: The Reserve Bank of India Act, 1934
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act established the Reserve Bank of India (RBI) as the country's central bank and provides the legal framework for its functions, including issuing currency, managing foreign exchange, and acting as the banker to the government and to other banks.
+KEY_PROVISIONS: |
+  Establishment of RBI (Section 3): Incorporates the Reserve Bank of India as a body corporate.
+TERMINOLOGY:
+  - Central Bank :: The primary financial institution of a country, responsible for monetary policy, currency issuance, and oversight of the banking system.
+  - Monetary Policy :: The process by which the monetary authority of a country controls the supply of money, often targeting an inflation rate or interest rate to ensure price stability and general trust in the currency.
+  - Non-Banking Financial Company (NBFC) :: A company engaged in the business of loans and advances, acquisition of shares/stocks/bonds, leasing, or hire-purchase, but does not include institutions whose principal business is agriculture, industrial activity, or the sale/purchase of goods.
+RELATED_SECTIONS:
+  - Section 22)
+  - Section 3)
+
+### ACT
+TITLE: The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002
+TYPE: Unspecified
+DESCRIPTION: |
+  The SARFAESI Act empowers banks and financial institutions to recover their non-performing assets (NPAs) without the intervention of a court. It allows them to seize and auction the commercial or residential properties of borrowers who default on their secured loans.
+KEY_PROVISIONS: |
+  Enforcement of Security Interest (Section 13): Allows secured creditors to take possession of the secured assets of the borrower, take over the management of the business of the borrower, and appoint a manager to manage the secured assets.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Non-Performing Asset (NPA) :: A loan or advance for which the principal or interest payment remained overdue for a period of 90 days.
+  - Secured Creditor :: Any bank or financial institution holding a security interest over the assets of a borrower.
+  - Security Interest :: A right, title, or interest of any kind upon property created in favour of a secured creditor.
+  - Asset Reconstruction Company (ARC) :: A specialized financial institution that buys the NPAs or bad assets from banks and financial institutions so that the latter can clean up their balance sheets.
+RELATED_SECTIONS:
+  - Section 13)
+  - Section 16
+
+### FIELD_GLOSSARY
+- Banking Company :: Any company which transacts the business of banking in India.
+- Reserve Fund :: A fund created by a company out of its profits to strengthen its financial position.
+- Prudential Norms :: Norms issued by the RBI relating to income recognition, asset classification, and provisioning for bad and doubtful debts.
+- Central Bank :: The primary financial institution of a country, responsible for monetary policy, currency issuance, and oversight of the banking system.
+- Monetary Policy :: The process by which the monetary authority of a country controls the supply of money, often targeting an inflation rate or interest rate to ensure price stability and general trust in the currency.
+- Non-Banking Financial Company (NBFC) :: A company engaged in the business of loans and advances, acquisition of shares/stocks/bonds, leasing, or hire-purchase, but does not include institutions whose principal business is agriculture, industrial activity, or the sale/purchase of goods.
+- Non-Performing Asset (NPA) :: A loan or advance for which the principal or interest payment remained overdue for a period of 90 days.
+- Secured Creditor :: Any bank or financial institution holding a security interest over the assets of a borrower.
+- Security Interest :: A right, title, or interest of any kind upon property created in favour of a secured creditor.
+- Asset Reconstruction Company (ARC) :: A specialized financial institution that buys the NPAs or bad assets from banks and financial institutions so that the latter can clean up their balance sheets.

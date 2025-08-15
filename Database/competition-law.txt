@@ -1,0 +1,43 @@
+# FIELD: Competition Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Competition Act, 2002
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act replaced the Monopolies and Restrictive Trade Practices Act, 1969 (MRTP Act). It aims to prevent practices that have an appreciable adverse effect on competition (AAEC) in India. The Act established the Competition Commission of India (CCI) as the regulatory body.
+KEY_PROVISIONS: |
+  The Act focuses on four main areas:
+
+  Prohibition of Anti-Competitive Agreements (Section 3): Prohibits agreements between enterprises that cause or are likely to cause an AAEC in India. This includes horizontal agreements (between competitors) like price-fixing and bid-rigging cartels, and vertical agreements (between firms at different levels of the supply chain) like tie-in arrangements and exclusive supply agreements.   
+
+  Prohibition of Abuse of Dominant Position (Section 4): Prohibits any enterprise or group from abusing its dominant position. Abuse includes imposing unfair or discriminatory prices or conditions, limiting production, or indulging in practices resulting in denial of market access.   
+
+  Regulation of Combinations (Sections 5 & 6): Regulates mergers, acquisitions, and amalgamations (combinations) that exceed certain asset or turnover thresholds. Such combinations require prior notification and approval from the CCI to ensure they do not cause an AAEC.   
+
+  Competition Advocacy (Section 49): Empowers the CCI to undertake competition advocacy, create public awareness, and impart training on competition issues.
+AMENDMENTS: |
+  Related Amendments
+TERMINOLOGY:
+  - Appreciable Adverse Effect on Competition (AAEC) :: The standard used to determine whether an agreement or combination is anti-competitive.
+  - Cartel :: An association of producers, sellers, or service providers who agree to limit, control, or attempt to control production, distribution, sale, or price of goods or services.
+  - Dominant Position :: A position of strength enjoyed by an enterprise in the relevant market in India, which enables it to operate independently of competitive forces or affect its competitors or consumers in its favour.
+  - Relevant Market :: The market which is determined by the CCI with reference to the "relevant product market" and the "relevant geographic market".
+  - Bid Rigging :: An agreement between enterprises engaged in identical businesses which has the effect of eliminating or reducing competition for bids or adversely affecting the bidding process.
+  - Leniency Programme :: A program offering reduced penalties to a cartel member who provides full and true disclosure of information about the cartel to the CCI.
+RELATED_SECTIONS:
+  - Section 18
+  - Section 3)
+  - Section 4)
+  - Section 49)
+  - Article 39(b)
+
+### FIELD_GLOSSARY
+- Appreciable Adverse Effect on Competition (AAEC) :: The standard used to determine whether an agreement or combination is anti-competitive.
+- Cartel :: An association of producers, sellers, or service providers who agree to limit, control, or attempt to control production, distribution, sale, or price of goods or services.
+- Dominant Position :: A position of strength enjoyed by an enterprise in the relevant market in India, which enables it to operate independently of competitive forces or affect its competitors or consumers in its favour.
+- Relevant Market :: The market which is determined by the CCI with reference to the "relevant product market" and the "relevant geographic market".
+- Bid Rigging :: An agreement between enterprises engaged in identical businesses which has the effect of eliminating or reducing competition for bids or adversely affecting the bidding process.
+- Leniency Programme :: A program offering reduced penalties to a cartel member who provides full and true disclosure of information about the cartel to the CCI.

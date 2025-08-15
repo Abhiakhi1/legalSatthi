@@ -1,0 +1,34 @@
+# FIELD: Muslim Law
+GENERATED_ON: 2025-08-15 13:07:41
+FORMAT:
+  - Each ACT block contains: TITLE, TYPE, DESCRIPTION, KEY_PROVISIONS, AMENDMENTS, TERMINOLOGY, RELATED_SECTIONS
+
+### ACT
+TITLE: The Muslim Personal Law (Shariat) Application Act, 1937
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act makes the Muslim Personal Law (Shariat) applicable to Muslims in India for various personal matters. Its primary objective was to abrogate customs and usages that were contrary to the principles of Islamic law and to ensure that Shariat governs personal disputes among Muslims.
+KEY_PROVISIONS: |
+  Application of Personal Law to Muslims (Section 2): Mandates that in all questions (except those relating to agricultural land) regarding intestate succession, special property of females, marriage, dissolution of marriage (including talaq, ila, zihar, lian, khula, and mubara'at), maintenance, dower, guardianship, gifts, trusts, and wakfs, the rule of decision in cases where the parties are Muslims shall be the Muslim Personal Law (Shariat).
+TERMINOLOGY:
+  - Shariat :: The body of Islamic law derived from the Quran and the traditions of the Prophet Muhammad.
+RELATED_SECTIONS:
+  - Section 2)
+
+### ACT
+TITLE: The Dissolution of Muslim Marriages Act, 1939
+TYPE: Unspecified
+DESCRIPTION: |
+  This Act was enacted to clarify and consolidate the provisions of Muslim law relating to suits for dissolution of marriage by women married under Muslim law and to provide them with the right to obtain a decree for divorce on specific grounds.
+KEY_PROVISIONS: |
+  Grounds for Decree for Dissolution of Marriage (Section 2): A woman married under Muslim law is entitled to obtain a decree for the dissolution of her marriage on any one or more of the following grounds:
+TERMINOLOGY:
+  - Dissolution of Marriage :: The legal termination of a marriage.
+  - Option of Puberty (Khyar-ul-Bulugh) :: The right of a minor girl, married off by her guardian, to repudiate the marriage upon attaining puberty.
+RELATED_SECTIONS:
+  - Section 2)
+
+### FIELD_GLOSSARY
+- Shariat :: The body of Islamic law derived from the Quran and the traditions of the Prophet Muhammad.
+- Dissolution of Marriage :: The legal termination of a marriage.
+- Option of Puberty (Khyar-ul-Bulugh) :: The right of a minor girl, married off by her guardian, to repudiate the marriage upon attaining puberty.
